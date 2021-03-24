@@ -1,0 +1,4 @@
+baseURL = "https://rodrigues-am.github.io/"
+languageCode = "en-us"
+title = "André Rodrigues"
+theme = "tale"

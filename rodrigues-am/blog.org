@@ -6,13 +6,15 @@
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
-:EXPORT_DATE: 2021-04-10
+:EXPORT_DATE: 2021-06-24
 :EXPORT_FILE_NAME: about
 :END:
 
 #+begin_description
 About me!
 #+end_description
+
+[[~/blog/rodrigues-am/images/social-circ.png]]
 
 Hi!  My name is André Roodrigues.
 
@@ -24,33 +26,34 @@ I am an assistant professor at the Institute of Physics -- the University of Sã
 
 /twitter:/ [[https://twitter.com/andremrod][@andremrod]]
 
+/ORCID:/ https://orcid.org/0000-0001-7109-5295
 
-* Blogging :@blogging:
-** DONE Hugo blog with Org and GitHub Actions                      :hugo:org:
+
+* Twitter and ML :@Twitter:@Machine_Learning:
+** Baby steps towards social media analytics for Science Education Research. :Twitter:Science_Education:Research:
 :PROPERTIES:
-:EXPORT_FILE_NAME: creating-hugo-blog-post
-:EXPORT_DATE: 2021-02-05
+:EXPORT_FILE_NAME: twitter-api-start
+:EXPORT_DATE: 2021-06-24
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true
 :END:
 
 #+begin_description
-In which I setup a working environment for writing a Hugo blog in Org with
-automatic deployment using GitHub Actions.
+I just delivered my application for Twitter API. A modest research project on the public understanding of science and conversations on scientific topics. Let's see if I get approved. It is a new field of research for me. Looks promising and exciting!
 #+end_description
 
-*** Motivation
-Like many dyed-in-the-wool Emacs users, I use [[https://orgmode.org][Org Mode]] for much of my writing. I
-want a blog that I can deploy and write posts for in Org with minimum fuss.
-Having heard good things about it, I want to give [[https://gohugo.io][Hugo]] a try. I also want to
-have automatic deployment with [[https://github.com/features/actions][GitHub Actions]].
+I just delivered my application for Twitter API. A modest research project on the public understanding of science and conversations on scientific topics.
 
+Let's see if I get approved. It is a new field of research for me. Looks promising and exciting!
 
+*** The research project for the application
 
-** Teste 1 :test:
-:PROPERTIES:
-:EXPORT_FILE_NAME: post-test
-:EXPORT_DATE: 2021-02-05
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true
-:END:
-Promeiro post via ox-hugo. Alguns testes *são necessários*. Verificar as letras =teste=.
+*The public conversations about Science:* the scientific concept dissemination in and through the social networks.
+
+The research project aims at examines how scientific topics are discussed on social networks, particularly on /Twitter/. I am interested in /Astronomy topics/, such as black holes, eclipses, Mars probe, etc., and politically controversial topics such as /Climate Change/. The data will help better understand how concepts and arguments are formed, developed, and used in people's daily lives. The major goal is to addresses the following question: What are the auxiliary concepts that people use while discussing scientific topics? As it is an exploratory study, there is no clear hypothesis.
+
+The Twitter data will be used to understand and categorize social networks' types of discussions regarding impactful scientific topics. For example, Twitter data can show how people react to scientific news, breakthroughs in Science, and so on.
+
+After collecting a group on tweets of a certain topic in a timeframe (such as 'black hole photography' in 2019), the main treatment is to run a topic analysis with machine learning in =R= and =Python=. I plan to use *Latent Dirichlet Allocation* to collect associated topics or support topics. Finally, some actual reading in a qualitative analysis will be used for validation.
+
+The research will be published in academic papers, mainly in journals of Science Education and Public Understand of Science. In addition, it is likely to be presented in Science Education conferences. The key findings will be reported in an academic blog to help the spread of the academic publications.
 

@@ -1,4 +1,0 @@
-[submodule "rodrigues-am/public"]
-	path = rodrigues-am/public
-	url = https://github.com/rodrigues-am/rodrigues-am.github.io.git
-	branch = main

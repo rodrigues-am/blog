@@ -1,5 +1,5 @@
-#baseURL = "https://www.rodrigues.xyz/"
-baseURL = "https://eager-volhard-82ef98.netlify.app/"
+baseURL = "https://www.rodrigues.xyz/"
+#baseURL = "https://eager-volhard-82ef98.netlify.app/"
 languageCode = "en-us"
 title = "André Rodrigues"
 theme = "noteworthy"
@@ -36,7 +36,7 @@ disqusShortname = "rodrigues-am"
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
-    email = ""
+    email = "rodrigues.am@usp.br"
     #facebook = "#"
     twitter = "https://twitter.com/andremrod"
     #instagram = "#"

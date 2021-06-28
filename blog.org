@@ -2,7 +2,7 @@
 #+hugo_weight: auto
 #+hugo_front_matter_key_replace: description>summary
 
-* Archives
+* TODO Archives
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_DATE: 2021-06-24
@@ -12,7 +12,7 @@
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :comments false
 :END:
 
-* About
+* TODO About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_DATE: 2021-06-24

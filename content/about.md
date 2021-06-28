@@ -1,13 +1,8 @@
-+++
-title = "About"
-author = ["André Rodrigues"]
-summary = "About me!"
-date = 2021-06-24
-draft = false
-weight = 1002
-type = "section"
-comments = false
-+++
+---
+date: 2019-05-28
+type: section
+title: "About"
+---
 
 {{< figure src="/img/social-circ.png" >}}
 

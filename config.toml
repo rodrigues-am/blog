@@ -11,7 +11,7 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
 googleAnalytics = "G-4NXHFSJGGK"
 
 # Add your Disqus shortname here.
-disqusShortname = "rodrigues-am"
+#disqusShortname = "rodrigues-am"
 
 [taxonomies]
   tag = "tags"

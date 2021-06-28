@@ -1,4 +1,4 @@
-baseURL = "https://rodrigues-am.xyz"
+baseURL = ""
 languageCode = "en-us"
 title = "André Rodrigues"
 theme = "noteworthy"
@@ -10,7 +10,7 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
 googleAnalytics = ""
 
 # Add your Disqus shortname here.
-disqusShortname = "andrmachadorodrigues"
+disqusShortname = ""
 
 [taxonomies]
   tag = "tags"

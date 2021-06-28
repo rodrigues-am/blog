@@ -1,4 +1,4 @@
-baseURL = "https://eager-volhard-82ef98.netlify.app/"
+baseURL = "https://rodrigues.xyz"
 languageCode = "en-us"
 title = "André Rodrigues"
 theme = "noteworthy"
@@ -7,10 +7,10 @@ paginate = 10 # Set the number of posts to show before overflowing to the next p
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-googleAnalytics = ""
+googleAnalytics = "G-4NXHFSJGGK"
 
 # Add your Disqus shortname here.
-disqusShortname = ""
+disqusShortname = "rodrigues-am"
 
 [taxonomies]
   tag = "tags"
@@ -25,7 +25,7 @@ disqusShortname = ""
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "This is my personal blog and webpage."
+    description = "My personal blog: a place for *Critical Thinking* about social media, STEM education, Climate Change, and many other things."
 
     showReadMore = false
 
@@ -35,7 +35,7 @@ disqusShortname = ""
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
-    email = "#"
+    email = ""
     #facebook = "#"
     twitter = "https://twitter.com/andremrod"
     #instagram = "#"

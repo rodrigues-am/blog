@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://eager-volhard-82ef98.netlify.app/"
 languageCode = "en-us"
 title = "André Rodrigues"
 theme = "noteworthy"

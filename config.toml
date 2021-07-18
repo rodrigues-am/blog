@@ -1,5 +1,4 @@
 baseURL = "https://www.rodrigues-am.xyz/"
-#baseURL = "https://eager-volhard-82ef98.netlify.app/"
 languageCode = "en-us"
 title = "André Rodrigues"
 theme = "noteworthy"
@@ -26,7 +25,7 @@ googleAnalytics = "G-4NXHFSJGGK"
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "My personal blog: a place for *Critical Thinking* about social media, STEM education, Climate Change, and many other things."
+    description = "My personal blog: a place for *Critical Thinking*, Social Media, STEM education, Climate Change, among other things."
 
     showReadMore = false
 

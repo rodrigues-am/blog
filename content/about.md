@@ -1,8 +1,7 @@
 ---
-date: 2019-05-28
+date: 2021-06-28
 type: section
-title: "About"
-comments: false
+layout: "about"
 ---
 
 {{< figure src="/img/social-circ.png" >}}

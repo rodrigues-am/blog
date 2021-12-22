@@ -1,5 +1,5 @@
 +++
-title = "The PhD Day in ISCAR 2021 Natal/Brazil."
+title = "The PhD Day in ISCAR 2021 Natal/Brazil"
 author = ["André Rodrigues"]
 summary = """
   The PhD Day activities held within the 6th Congress of the International Society

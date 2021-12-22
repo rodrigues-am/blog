@@ -2,7 +2,6 @@
 #+hugo_base_dir: ./
 #+hugo_weight: auto
 #+hugo_front_matter_key_replace: description>summary
-#+filetags:
 
 * NO Archives :noexport:
 :PROPERTIES:
@@ -110,3 +109,109 @@ The Twitter data will be used to understand and categorize social networks' type
 After collecting a group on tweets of a certain topic in a timeframe (such as 'black hole photography' in 2019), the main treatment is to run a topic analysis with machine learning in =R= and =Python=. I plan to use *Latent Dirichlet Allocation* to collect associated topics or support topics. Finally, some actual reading in a qualitative analysis will be used for validation.
 
 The research will be published in academic papers, mainly in journals of Science Education and Public Understand of Science. In addition, it is likely to be presented in Science Education conferences. The key findings will be reported in an academic blog to help the spread of the academic publications.
+
+* Cultural-Historical approach :@chat:@cultural_historical_approach:
+** The PhD Day in ISCAR 2021 Natal/Brazil :iscar:phd:meeting:academic:
+:PROPERTIES:
+:EXPORT_FILE_NAME: phd-day-natal-21
+:EXPORT_DATE: 2021-08-09
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :header '((image . "/img/phd-day.png") (caption . "Some PhD participants during the closing activity."))
+:END:
+
+#+begin_description
+The PhD Day activities held within the 6th Congress of the International Society
+for Cultural-Historical Activity Research represent how much the research
+community looks up to the future without neglecting the past. In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibrant research community on cultural-historical approach, the engagement and participation of Brazilians would not be different. Unfortunately, we could not meet all in person. Natal is suited for this type of meeting in which we start the discussion in presentation rooms and continue it somewhere near the beach. But that was the only thing to regret.
+#+end_description
+
+#+caption: Some PhD participants during the closing activity.
+#+attr_html: :alt Org mode logo
+#+attr_html: :width 550
+#+attr_html: :align center
+[[/img/phd-day.png]]
+
+The PhD Day activities held within the /6th Congress of the International Society for Cultural-Historical Activity Research/ represent how much the research community looks up to the future without neglecting the past.
+
+In such a time of crisis and turmoil, it is refreshing to read and watch the work of talented young researchers. It is an opportunity for exchange that always goes in two ways. All the professors do their best to push the research further and help each PhD candidate develop and envision their own path. At the same time, the new and provocative ideas put on the table support the research community to keep moving further. /It brings fresh air to the flame./
+
+It is striking the diversity of fields, backgrounds, and problems that the ISCAR community embraces. This diversity is one of the key strengths of this community. After all, the PhD Day is a safe environment for the new generation of scholars to present and try out new approaches and ideas.
+
+In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibrant research community on cultural-historical approach, the engagement and participation of Brazilians would not be different. Unfortunately, we could not meet all in person. Natal is suited for this type of meeting in which we start the discussion in presentation rooms and continue it somewhere near the beach. But that was the only thing to regret.
+
+I hope to see all the participants in Moscow to, once again, exchange precious
+questions and ideas.
+
+
+
+
+* Conferences :@conferences:
+** Next conf. IOSTE 2022 :@science_education:
+:PROPERTIES:
+:EXPORT_FILE_NAME: conf-ioste-22
+:EXPORT_DATE: 2021-12-21
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+Org: International Organization for Science and Technology Education
+
+Title: /"Esperançar in uncertainty times: the role of science and technology education in/for a changing world"/
+
+Website: https://ioste2022.com/
+
+Date: 25-29 July, 2022
+
+Place: Recife, Brazil.
+
+Lang: /English/
+
+Submission deadline: *31 Jan 2022*
+
+** Next conf. EPEF 2022 :@physics_education:
+:PROPERTIES:
+:EXPORT_FILE_NAME: conf-epef-22
+:EXPORT_DATE: 2021-12-21
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+Org: SBF (XIX Encontro de Pesquisa em Ensino de Física (EPEF 2022)
+   --- [/Physics Education Research Meeting/]
+
+
+Title: /“Perspectivas e Desafios da Pesquisa em Ensino de Física em tempos pandêmicos: o que aprendemos e para onde vamos?”/
+
+Website: http://www1.fisica.org.br/~epef/xix/index.php
+
+Date: 15-19 Agosto, 2022
+
+Place: Belo Horizonte - Brazil
+
+Lang: Portuguese
+
+Submission deadline: *1 Fev 2022*
+
+* NO New ideas :noexeport:
+** TODO The notion of /tird-person effect/ to examine the current issues on social media: some remarks 2021-09-01 qua
+:PROPERTIES:
+:EXPORT_FILE_NAME: tird_person_effect_social_media
+:EXPORT_DATE:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+#+begin_description
+xxx
+#+end_description
+
+The text publish by Davison, 1983 is interestesting and ease to read. Some points deserve attention.
+
+The notion.
+
+The formulation of censorship.
+
+The power of propagandist. They know and they control?
+
+The confusion with -- efeito manada.
+
+The other -- 'otherness'.
+
+The need for theory and the framentation of exemplos.

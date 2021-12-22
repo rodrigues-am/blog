@@ -142,6 +142,40 @@ In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibr
 I hope to see all the participants in Moscow to, once again, exchange precious
 questions and ideas.
 
+* Conferences :@conferences:meeting:
+** Confereces & Meetings in 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: conf-2022
+:EXPORT_DATE: 2021-12-22
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+*** IOSTE :science_education:
+
+International Organization for Science and Technology Education
+
+Title: /"Esperançar in uncertainty times: the role of science and technology education in/for a changing world"/
+
+*Website:* https://ioste2022.com/
+
+Date: /25-29 July, 2022/
+Place: /Recife, Brazil/
+Lang: /English/
+Submission deadline: *31 Jan 2022*
+
+*** EPEF :physics_education:
+
+SBF (XIX Encontro de Pesquisa em Ensino de Física (EPEF 2022)
+   --- /Physics Education Research Meeting/
+
+Title: /“Perspectivas e Desafios da Pesquisa em Ensino de Física em tempos pandêmicos: o que aprendemos e para onde vamos?”/
+
+*Website:* http://www1.fisica.org.br/~epef/xix/index.php
+
+Date: /15-19 Agosto, 2022/
+Place: /Belo Horizonte, Brazil/
+Lang: /Portuguese/
+Submission deadline: *1 Fev 2022*
+
 * NO New ideas :noexeport:
 ** TODO The notion of /tird-person effect/ to examine the current issues on social media: some remarks 2021-09-01 qua
 :PROPERTIES:

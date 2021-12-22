@@ -2,7 +2,8 @@
 title = "Next conf. IOSTE 2022"
 author = ["André Rodrigues"]
 date = 2021-12-21
-categories = ["conferences", "science-education"]
+tags = ["science-education"]
+categories = ["conferences"]
 draft = false
 weight = 2001
 comments = true

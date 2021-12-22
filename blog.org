@@ -33,8 +33,8 @@ Hi!  My name is André Roodrigues.
 I am an assistant professor at the Institute of Physics -- the University of São Paulo in Brazil. In the last decade, I have researched scientific concept formation, STEM education, educational data analysis with R, and cultural-historical psychology. This blog attempts to keep a consistent register of the journey as a researcher in the science education field.
 
 
-* Twitter and ML :@Twitter:@Machine_Learning:
-** The initial challenge: understand how Twitter works. :Twitter:Science_Education:social_media:
+* Twitter and ML :@twitter:@machine_learning:
+** The initial challenge: understand how Twitter works. :Twitter:science_education:social_media:
 :PROPERTIES:
 :EXPORT_FILE_NAME: understand-twitter
 :EXPORT_DATE: 2021-07-18
@@ -144,13 +144,12 @@ questions and ideas.
 
 * Conferences :@conferences:meeting:
 ** Confereces & Meetings in 2022
-*** Science and Physics Education
 :PROPERTIES:
-:EXPORT_FILE_NAME: conf-22
+:EXPORT_FILE_NAME: conf-2022
 :EXPORT_DATE: 2021-12-22
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
-
+*** Science and Physics Education
 **** Next conf. IOSTE 2022 :science_education:
 
 Org: International Organization for Science and Technology Education

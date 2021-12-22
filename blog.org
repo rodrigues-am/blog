@@ -142,11 +142,8 @@ In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibr
 I hope to see all the participants in Moscow to, once again, exchange precious
 questions and ideas.
 
-
-
-
 * Conferences :@conferences:
-** Next conf. IOSTE 2022 :@science_education:
+** Next conf. IOSTE 2022 :science_education:
 :PROPERTIES:
 :EXPORT_FILE_NAME: conf-ioste-22
 :EXPORT_DATE: 2021-12-21
@@ -167,7 +164,7 @@ Lang: /English/
 
 Submission deadline: *31 Jan 2022*
 
-** Next conf. EPEF 2022 :@physics_education:
+** Next conf. EPEF 2022 :physics_education:
 :PROPERTIES:
 :EXPORT_FILE_NAME: conf-epef-22
 :EXPORT_DATE: 2021-12-21
@@ -175,7 +172,7 @@ Submission deadline: *31 Jan 2022*
 :END:
 
 Org: SBF (XIX Encontro de Pesquisa em Ensino de Física (EPEF 2022)
-   --- [/Physics Education Research Meeting/]
+   --- /Physics Education Research Meeting/
 
 
 Title: /“Perspectivas e Desafios da Pesquisa em Ensino de Física em tempos pandêmicos: o que aprendemos e para onde vamos?”/

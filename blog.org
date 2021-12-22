@@ -142,13 +142,16 @@ In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibr
 I hope to see all the participants in Moscow to, once again, exchange precious
 questions and ideas.
 
-* Conferences :@conferences:
-** Next conf. IOSTE 2022 :science_education:
+* Conferences :@conferences:meeting:
+** Confereces & Meetings in 2022
+*** Science and Physics Education
 :PROPERTIES:
-:EXPORT_FILE_NAME: conf-ioste-22
-:EXPORT_DATE: 2021-12-21
+:EXPORT_FILE_NAME: conf-22
+:EXPORT_DATE: 2021-12-22
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
+
+**** Next conf. IOSTE 2022 :science_education:
 
 Org: International Organization for Science and Technology Education
 
@@ -164,12 +167,7 @@ Lang: /English/
 
 Submission deadline: *31 Jan 2022*
 
-** Next conf. EPEF 2022 :physics_education:
-:PROPERTIES:
-:EXPORT_FILE_NAME: conf-epef-22
-:EXPORT_DATE: 2021-12-21
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
-:END:
+**** Next conf. EPEF 2022 :physics_education:
 
 Org: SBF (XIX Encontro de Pesquisa em Ensino de Física (EPEF 2022)
    --- /Physics Education Research Meeting/

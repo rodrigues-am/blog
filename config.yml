@@ -46,26 +46,26 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "./static/img/social-circ.png"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+    favicon: "/img/favicon/favicon.ico"
+    favicon16x16: "/img/favicon/favicon-16x16.png"
+    favicon32x32: "/img/favicon/favicon-32x32.png"
+    apple_touch_icon: "/img/favicon/apple-touch-icon.png"
     safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /img/favicon/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: André Rodrigues
-    subtitle: "Thinking ..."
+    subtitle: "Thinking about life ..."
     imageUrl: "/img/social-circ.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Minha foto
+    imageTitle: my photo
     buttons:
       - name: Posts
         url: posts

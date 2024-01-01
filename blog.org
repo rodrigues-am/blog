@@ -146,7 +146,6 @@ questions and ideas.
 :PROPERTIES:
 :EXPORT_FILE_NAME: conf-2024
 :EXPORT_DATE: 2023-12-30
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
 *** ISCAR 2024
 
@@ -185,7 +184,6 @@ Submission deadline: *21 jan 2024*
 :PROPERTIES:
 :EXPORT_FILE_NAME: conf-2022
 :EXPORT_DATE: 2021-12-22
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
 *** IOSTE :science_education:
 

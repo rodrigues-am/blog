@@ -32,7 +32,6 @@ Hi!  My name is André Roodrigues.
 
 I am an assistant professor at the Institute of Physics -- the University of São Paulo in Brazil. In the last decade, I have researched scientific concept formation, STEM education, educational data analysis with R, and cultural-historical psychology. This blog attempts to keep a consistent register of the journey as a researcher in the science education field.
 
-
 * Twitter and ML :@twitter:@machine_learning:
 ** The initial challenge: understand how Twitter works. :Twitter:science_education:social_media:
 :PROPERTIES:
@@ -143,6 +142,45 @@ I hope to see all the participants in Moscow to, once again, exchange precious
 questions and ideas.
 
 * Conferences :@conferences:meeting:
+** Confereces & Meetings in 2024
+:PROPERTIES:
+:EXPORT_FILE_NAME: conf-2024
+:EXPORT_DATE: 2023-12-30
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+*** ISCAR 2024
+
+International Society for Cultural-historical Activity Research (ISCAR)
+
+Title: /"Inclusiveness as a future challenge"/
+
+*Website:* [[https://iscar2024.com/][https://iscar2024.com/]]
+
+Date: /26 - 30 Aug, 2024/
+
+Place: /Rotterdam, Netherlands/
+
+Lang: /English/
+
+Submission deadline: *1 Feb 2024*
+
+*** XX EPEF
+
+SBF (XX Encontro de Pesquisa em Ensino de Física (EPEF 2024)
+   --- /Physics Education Research Meeting/
+
+Title: /"Nas veredas da pesquisa, com quem nos comunicamos e para onde queremos ir?"/
+
+*Website:* [[https://www1.fisica.org.br/~epef/xx/index.php/pt/][https://www1.fisica.org.br/~epef/xx/index.php/pt/]]
+
+Date: /19-23 Agosto, 2024/
+
+Place: /Recife, Brazil/
+
+Lang: /Portuguese/
+
+Submission deadline: *21 jan 2024*
+
 ** Confereces & Meetings in 2022
 :PROPERTIES:
 :EXPORT_FILE_NAME: conf-2022
@@ -165,7 +203,7 @@ Lang: /English/
 
 Submission deadline: *31 Jan 2022*
 
-*** EPEF :physics_education:
+*** XIX EPEF :physics_education:
 
 SBF (XIX Encontro de Pesquisa em Ensino de Física (EPEF 2022)
    --- /Physics Education Research Meeting/
@@ -181,7 +219,6 @@ Place: /Belo Horizonte, Brazil/
 Lang: /Portuguese/
 
 Submission deadline: *1 Fev 2022*
-
 * NO New ideas :noexeport:
 ** TODO The notion of /tird-person effect/ to examine the current issues on social media: some remarks 2021-09-01 qua
 :PROPERTIES:
@@ -207,3 +244,73 @@ The confusion with -- efeito manada.
 The other -- 'otherness'.
 
 The need for theory and the framentation of exemplos.
+
+* Org :program:
+** Programação para 2022/2
+
+**** XIV Enpec - 2023
+XIV Encontro Nacional de Pesquisa em Educação em Ciências (ENPEC)
+
+*Submissão:* até 10 de outubro de 2022
+
+*Data:* 02 a 06 de outubro de 2023
+*Local:* Caldas Novas/Goiás /(presencial)/
+*Site:* http://www.enpec2023.com.br/
+
+#+begin_mark
+Tarefa:
+#+end_mark
+
+Preparar as submissões dos trabalhos.
+
+**** EPIEC - 2022
+XVI Encontro do Programa de Pós-Graduação Interunidades em Ensino de Ciências (EPIEC)
+/[XVI EPIEC e I EDINTER]/
+
+*Data:* 10 e 11 de agosto de 2022 /(remoto)/ | 12 de agosto de 2022 /(presencial)/
+*Local:* Instituto de Química da USP
+*Site:* https://epiec-usp.wixsite.com/epiec2022
+
+#+begin_mark
+Tarefa:
+#+end_mark
+
+Participação do evento.
+
+**** II Encontro ECCo - 2022
+II Encontro do grupo de pesquisa em Educação em Ciências e Complexidade (ECCo)
+
+*Data:* 15 a 17 de outubro de 2022
+*Local:* Instituto de Física e Caucaia/SP /(presencial)/
+*Site:* https://t.ly/ggGv
+
+#+begin_mark
+Tarefa:
+#+end_mark
+
+Organizar o encontro.
+
+**** Encontro com estudantes - 2022
+Encontro para abertura do semestre 2022/2.
+
+*Data:* 20 de agosto de 2022
+*Local*: Instituto de Física
+*Site:* /(ainda não existe)/
+
+#+begin_mark
+Tarefa:
+#+end_mark
+
+Organizar o encontro e programa de apresentações.
+
+**** XIX EPEF - 2022
+
+*Data:* 15 e 19 de agosto de 2022
+*Local:* Belo Horizonte/UFMG /(completamente online)/
+*Site:* http://www1.fisica.org.br/~epef/xix/index.php
+
+#+begin_mark
+Tarefa:
+#+end_mark
+
+Produzir as apresentações com Daniel Fontes e Lucas Fauser.

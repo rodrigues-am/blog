@@ -17,7 +17,7 @@ comments = true
   caption = "Some PhD participants during the closing activity."
 +++
 
-{{< figure src="/img/phd-day.png" alt="Org mode logo" caption="Figure 1: Some PhD participants during the closing activity." width="550" >}}
+{{< figure src="/img/phd-day.png" alt="Org mode logo" caption="<span class=\"figure-number\">Figure 1: </span>Some PhD participants during the closing activity." width="550" >}}
 
 The PhD Day activities held within the _6th Congress of the International Society for Cultural-Historical Activity Research_ represent how much the research community looks up to the future without neglecting the past.
 

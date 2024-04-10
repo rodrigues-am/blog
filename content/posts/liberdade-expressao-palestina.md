@@ -1,8 +1,10 @@
 +++
-title = "A Liberdade de expressão e a questão palestina"
+title = "A liberdade de expressão e a questão palestina"
 author = ["André Rodrigues"]
+summary = "Devo apoiar a liberdade de expressão como um direito democrático da população? Minha resposta é sim. O recuo ou capitulação nesse terreno traz consequências nefastas para as mais importantes lutas políticas do nosso tempo. A censura, perseguição política e repressão, aquilo que eufemisticamente chamaria de restrição da liberdade de expressão, não favorece em nada a luta de libertação dos povos oprimidos, como fica patente nos casos apresentados. A esquerda, que historicamente lutou pelos direitos democráticos da população, se encontra encurralada tendo que apoiar ou justificar a censura. Ao apoiar a criminalização da opinião e o sufocamento do debate público, seja por miopia, impotência, medo ou mero oportunismo, parte da esquerda abandona a luta política e acomoda sua própria cabeça na guilhotina."
 date = 2024-04-09
-tags = ["opinião", "política", "palestina", "liberdade-expressao"]
+tags = ["palestina", "liberdade-expressao"]
+categories = ["opinião", "política"]
 draft = false
 weight = 2001
 comments = true

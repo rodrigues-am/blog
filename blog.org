@@ -218,14 +218,17 @@ Place: /Belo Horizonte, Brazil/
 Lang: /Portuguese/
 
 Submission deadline: *1 Fev 2022*
-* Opinião :opinião:política:
-
-** A Liberdade de expressão e a questão palestina :palestina:liberdade_expressao:
+* Opinião :@opinião:@política:
+** A liberdade de expressão e a questão palestina :palestina:liberdade_expressao:
 :PROPERTIES:
 :EXPORT_FILE_NAME: liberdade-expressao-palestina
 :EXPORT_DATE: 2024-04-09
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
+
+#+begin_description
+Devo apoiar a liberdade de expressão como um direito democrático da população? Minha resposta é sim. O recuo ou capitulação nesse terreno traz consequências nefastas para as mais importantes lutas políticas do nosso tempo. A censura, perseguição política e repressão, aquilo que eufemisticamente chamaria de restrição da liberdade de expressão, não favorece em nada a luta de libertação dos povos oprimidos, como fica patente nos casos apresentados. A esquerda, que historicamente lutou pelos direitos democráticos da população, se encontra encurralada tendo que apoiar ou justificar a censura. Ao apoiar a criminalização da opinião e o sufocamento do debate público, seja por miopia, impotência, medo ou mero oportunismo, parte da esquerda abandona a luta política e acomoda sua própria cabeça na guilhotina.
+#+end_description
 
 As recentes denúncias de censura e ilegalidades por parte da Suprema Corte brasileira, juntamente com a reativação da campanha em apoio ao Projeto de Lei 2630/2020, conhecido como PL das Fake News, trazem novamente à tona o debate político sobre censura e liberdade de expressão. Surge então a questão: Devo apoiar a liberdade de expressão como um direito democrático da população? Minha resposta é sim. O recuo ou capitulação nesse terreno traz consequências nefastas para as mais importantes lutas políticas do nosso tempo.
 
@@ -246,8 +249,8 @@ O enfrentamento em torno da questão palestina ilustra bem como as políticas de
 A censura, perseguição política e repressão, aquilo que eufemisticamente chamaria de restrição da liberdade de expressão, não favorece em nada a luta de libertação dos povos oprimidos, como fica patente nos casos apresentados. A esquerda, que historicamente lutou pelos direitos democráticos da população, se encontra encurralada tendo que apoiar ou justificar a censura. Ao apoiar a criminalização da opinião e o sufocamento do debate público, seja por miopia, impotência, medo ou mero oportunismo, parte da esquerda abandona a luta política e acomoda sua própria cabeça na guilhotina.
 
 
+* NO New ideas :noexeport:
 ** TODO A falsa contradição entre direito individual e coletivo no caso a restrição da liberdade de expressão
-
 *** O argumento dicotômico
 
 *** O caso da perseguição dos Balck African
@@ -260,11 +263,11 @@ O cenceamento de minha liberdade de fala é também um cerceamento da sua liberd
 
 
 
+** TODO Nem tudo que reluz é ouro, as bolsas e permanencia estudantil devem ser desenhados
 
+Há uma necessidade de aumentar e melhor direcionar a permanencia estudantil.
 
-
-
-
+Os programas de formação docente
 
 ** TODO The notion of /tird-person effect/ to examine the current issues on social media: some remarks 2021-09-01 qua
 :PROPERTIES:
@@ -291,12 +294,6 @@ The other -- 'otherness'.
 
 The need for theory and the framentation of exemplos.
 
-** TODO Nem tudo que reluz é ouro, as bolsas e permanencia estudantil devem ser desenhados
-
-Há uma necessidade de aumentar e melhor direcionar a permanencia estudantil.
-
-Os programas de formação docente
-* NO New ideas :noexeport:
 * Org :program:
 ** Programação para 2022/2
 

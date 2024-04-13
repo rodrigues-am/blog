@@ -252,7 +252,7 @@ A censura, perseguição política e repressão, aquilo que eufemisticamente cha
 ** A liberdade de expressão e o bolsonarismo :liberdade_expressao:bolsonarismo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: liberdade-expressao-bolsonarismo
-:EXPORT_DATE: 2024-04-13
+:EXPORT_DATE: 2024-04-12
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :END:
 

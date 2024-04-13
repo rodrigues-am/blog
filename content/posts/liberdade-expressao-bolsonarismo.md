@@ -2,7 +2,7 @@
 title = "A liberdade de expressão e o bolsonarismo"
 author = ["André Rodrigues"]
 summary = "Seria a defesa da liberdade de expressão uma posição verdadeiramente bolsonarista? A acusação de que a liberdade de expressão é uma bandeira da extrema-direita serve como estratégia de deflexão - um subterfúgio para evitar os argumentos. No entanto, essa posição merece análise."
-date = 2024-04-13
+date = 2024-04-12
 tags = ["liberdade-expressao", "bolsonarismo"]
 categories = ["opinião", "política"]
 draft = false

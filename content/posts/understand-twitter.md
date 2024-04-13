@@ -6,7 +6,7 @@ date = 2021-07-18
 tags = ["Twitter", "science-education", "social-media"]
 categories = ["twitter", "machine-learning"]
 draft = false
-weight = 2001
+weight = 200
 comments = true
 +++
 

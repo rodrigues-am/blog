@@ -10,7 +10,7 @@ date = 2021-08-09
 tags = ["iscar", "phd", "meeting", "academic"]
 categories = ["chat", "cultural-historical-approach"]
 draft = false
-weight = 2001
+weight = 200
 comments = true
 [header]
   image = "/img/phd-day.png"

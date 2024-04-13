@@ -6,7 +6,7 @@ date = 2021-06-24
 tags = ["Twitter", "Science-Education", "Research"]
 categories = ["twitter", "machine-learning"]
 draft = false
-weight = 2002
+weight = 200
 comments = true
 +++
 

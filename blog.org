@@ -1,6 +1,6 @@
 #+STARTUP: overview
 #+hugo_base_dir: ./
-#+hugo_weight: auto
+#+hugo_weight: 200
 #+hugo_front_matter_key_replace: description>summary
 
 * NO Archives :noexport:
@@ -267,10 +267,11 @@ Jair Bolsonaro é conhecido por seu apoio à ditadura brasileira, indo ao extrem
 
 Para aqueles que ainda consideram seriamente essa questão, é importante refletir sobre as possíveis alternativas:
 
-> (a) A defesa da liberdade de expressão é uma posição historicamente associada à extrema direita fascista e é usada como uma ferramenta, direta ou indiretamente, para impor o fascismo no Brasil.
+#+begin_aside
+- *(a)* A defesa da liberdade de expressão é uma posição historicamente associada à extrema direita fascista e é usada como uma ferramenta, direta ou indiretamente, para impor o fascismo no Brasil.
 
-> (b) A defesa da liberdade de expressão pela direita é hipócrita, dissimulada e oportunista, servindo apenas para manipular parte da opinião pública e radicalizar sua base mais ativa, apresentando-se, mesmo que temporariamente, como defensora das liberdades democráticas da população.
-
+- *(b)* A defesa da liberdade de expressão pela direita é hipócrita, dissimulada e oportunista, servindo apenas para manipular parte da opinião pública e radicalizar sua base mais ativa, apresentando-se, mesmo que temporariamente, como defensora das liberdades democráticas da população.
+#+end_aside
 Para aqueles que insistem na primeira alternativa, espero ler os mais diversos malabarismos lógicos e argumentativos ao tentarem conciliar essa visão com toda a experiência histórica de implementação de regimes fascistas no século XX. Confesso que não estou particularmente curioso ou entusiasmado, mas desejo boa sorte.
 
 Quanto à segunda alternativa, ofereço alguns exemplos de como Bolsonaro e seus aceclas agem de maneira abertamente dissimulada. Não são poucos os casos de professores perseguidos e silenciados por criticarem o então presidente da República. Professores de escolas e universidades privadas que se manifestaram politicamente foram demitidos, evidenciando uma clara perseguição política praticada pelos apoiadores de Bolsonaro. Os casos também alcançaram as universidades públicas, onde a crítica ao governo não foi tolerada. Um artigo de 3 de março de 2021, de [[https://oglobo.globo.com/politica/cgu-impoe-2-anos-de-mordaca-professores-em-troca-de-suspensao-de-processo-por-criticas-bolsonaro-24907038][O Globo]], relata:

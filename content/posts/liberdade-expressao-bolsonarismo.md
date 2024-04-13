@@ -6,7 +6,7 @@ date = 2024-04-12
 tags = ["liberdade-expressao", "bolsonarismo"]
 categories = ["opinião", "política"]
 draft = false
-weight = 2002
+weight = 200
 comments = true
 +++
 
@@ -16,9 +16,13 @@ Jair Bolsonaro é conhecido por seu apoio à ditadura brasileira, indo ao extrem
 
 Para aqueles que ainda consideram seriamente essa questão, é importante refletir sobre as possíveis alternativas:
 
-&gt; (a) A defesa da liberdade de expressão é uma posição historicamente associada à extrema direita fascista e é usada como uma ferramenta, direta ou indiretamente, para impor o fascismo no Brasil.
+<aside>
 
-&gt; (b) A defesa da liberdade de expressão pela direita é hipócrita, dissimulada e oportunista, servindo apenas para manipular parte da opinião pública e radicalizar sua base mais ativa, apresentando-se, mesmo que temporariamente, como defensora das liberdades democráticas da população.
+-   **(a)** A defesa da liberdade de expressão é uma posição historicamente associada à extrema direita fascista e é usada como uma ferramenta, direta ou indiretamente, para impor o fascismo no Brasil.
+
+-   **(b)** A defesa da liberdade de expressão pela direita é hipócrita, dissimulada e oportunista, servindo apenas para manipular parte da opinião pública e radicalizar sua base mais ativa, apresentando-se, mesmo que temporariamente, como defensora das liberdades democráticas da população.
+
+</aside>
 
 Para aqueles que insistem na primeira alternativa, espero ler os mais diversos malabarismos lógicos e argumentativos ao tentarem conciliar essa visão com toda a experiência histórica de implementação de regimes fascistas no século XX. Confesso que não estou particularmente curioso ou entusiasmado, mas desejo boa sorte.
 

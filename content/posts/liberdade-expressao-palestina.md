@@ -6,7 +6,7 @@ date = 2024-04-09
 tags = ["palestina", "liberdade-expressao"]
 categories = ["opinião", "política"]
 draft = false
-weight = 2001
+weight = 200
 comments = true
 +++
 

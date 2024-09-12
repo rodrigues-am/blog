@@ -9,7 +9,7 @@ weight = 200
 comments = true
 +++
 
-/Da série: Pau que bate em Chico, bate também em Francisco.
+_Da série: Pau que bate em Chico, bate também em Francisco._
 
 A censura na internet avança cada vez mais [(link para a notícia)](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/09/11/condenacao-cientistas-diabetes-vermes.htm). O caso das cientistas que ousaram entrar em uma polêmica sobre as causas do diabetes é mais uma ilustração das consequências desse clima de censura instaurado.
 
@@ -21,6 +21,8 @@ Ah, mas e a privacidade e o direito à propriedade intelectual, alguém poderia 
 
 Devo admitir que esse clima direitista de censura foi amplamente impulsionado pela esquerda. Incapaz de vencer no campo do debate político e após uma série de erros de avaliação, a esquerda passou a se fiar na tentativa de controlar, silenciar e censurar. Contudo, o jogo da censura pertence à direita.
 
-Agora vem o mais curioso: se as cientistas cometeram um crime ao expor o nutricionista, a UOL, ao divulgar a história, poderia ser responsabilizada por relatar a "feitura do crime" — mesmo sem mostrar as informações pessoais do nutricionista? Por outro lado, as cientistas não poderiam processar a UOL por divulgar o processo e o vídeo que elas postaram? Afinal, elas também estão sendo expostas. E aqueles que compartilharam o vídeo, também deveriam ser processados?
+**Agora vem o mais curioso:** se as cientistas cometeram um crime ao expor o nutricionista, a UOL, ao divulgar a história, poderia ser responsabilizada por relatar a "feitura do crime" — mesmo sem mostrar as informações pessoais do nutricionista? Por outro lado, as cientistas não poderiam processar a UOL por divulgar o processo e o vídeo que elas postaram? Afinal, elas também estão sendo expostas. E aqueles que compartilharam o vídeo, também deveriam ser processados?
 
-Com o PL da censura estacionado, podemos ver o vídeo do crime, discutir sobre ele, e até mesmo dizer (emitindo minha opinião) que crime algum foi cometido. -- Mas até quando poderemos fazer isso?
+Com o PL da censura estacionado, podemos ver o vídeo do crime, discutir sobre ele, e até mesmo dizer (emitindo minha opinião) que crime algum foi cometido.
+
+_Mas até quando poderemos fazer isso?_

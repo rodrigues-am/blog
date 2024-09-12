@@ -272,6 +272,7 @@ Para aqueles que ainda consideram seriamente essa questão, é importante reflet
 
 - *(b)* A defesa da liberdade de expressão pela direita é hipócrita, dissimulada e oportunista, servindo apenas para manipular parte da opinião pública e radicalizar sua base mais ativa, apresentando-se, mesmo que temporariamente, como defensora das liberdades democráticas da população.
 #+end_aside
+
 Para aqueles que insistem na primeira alternativa, espero ler os mais diversos malabarismos lógicos e argumentativos ao tentarem conciliar essa visão com toda a experiência histórica de implementação de regimes fascistas no século XX. Confesso que não estou particularmente curioso ou entusiasmado, mas desejo boa sorte.
 
 Quanto à segunda alternativa, ofereço alguns exemplos de como Bolsonaro e seus aceclas agem de maneira abertamente dissimulada. Não são poucos os casos de professores perseguidos e silenciados por criticarem o então presidente da República. Professores de escolas e universidades privadas que se manifestaram politicamente foram demitidos, evidenciando uma clara perseguição política praticada pelos apoiadores de Bolsonaro. Os casos também alcançaram as universidades públicas, onde a crítica ao governo não foi tolerada. Um artigo de 3 de março de 2021, de [[https://oglobo.globo.com/politica/cgu-impoe-2-anos-de-mordaca-professores-em-troca-de-suspensao-de-processo-por-criticas-bolsonaro-24907038][O Globo]], relata:
@@ -291,6 +292,30 @@ Os exemplos apresentados demonstram como o bolsonarismo aborda a liberdade de ex
 Por um lado, a acusação de que a liberdade de expressão é uma bandeira da extrema direita ilustra como o bolsonarismo manipula as mentes menos politizadas. Por outro lado, aqueles que insistem nessa tese acabam atuando como "idiotas úteis", conferindo credibilidade ao discurso hipócrita dos bolsonaristas. Por fim, aqueles que lançam mão desse argumeto, apenas evidênciam que também foram pegos na armadilha de uma ilusão de ótica.
 
 Por um lado, aqueles que insistem nessa tese acabam atuando como /idiotas úteis/, conferindo credibilidade ao discurso hipócrita dos bolsonaristas. Por outro lado, a acusação de que a liberdade de expressão é uma bandeira da extrema direita ilustra como o bolsonarismo manipula as mentes menos politizadas. Aqueles que lançam mão desse argumento apenas evidenciam que também foram pegos na armadilha de uma ilusão de ótica.
+
+
+** A censura e a discussão científica na internet :liberdade_expressao:ciência:
+:PROPERTIES:
+:EXPORT_FILE_NAME: censura-ciencia-internet
+:EXPORT_DATE: 2024-09-12
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+/Da série: Pau que bate em Chico, bate também em Francisco.
+
+A censura na internet avança cada vez mais [[https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/09/11/condenacao-cientistas-diabetes-vermes.htm][(link para a notícia)]]. O caso das cientistas que ousaram entrar em uma polêmica sobre as causas do diabetes é mais uma ilustração das consequências desse clima de censura instaurado.
+
+Em uma postagem que refutava a ideia de que o diabetes seria causado por vermes, as cientistas expuseram o perfil de um nutricionista que vendia protocolos de desparasitação. Como resultado, foram condenadas a remover o vídeo das redes sociais e a pagar R$ 1.000 por danos morais.
+
+Essa condenação pode ser interpretada como uma forma clara e direta de censura. É uma estratégia antiga, amplamente conhecida, e que tem ganhado força nos últimos anos. Uma pessoa emite uma opinião — seja correta ou errada, boa ou ruim, — e é imediatamente processada. Em tempos normais, esses processos não teriam avançado, e o bom senso prevaleceria.
+
+Ah, mas e a privacidade e o direito à propriedade intelectual, alguém poderia perguntar! Essa questão, na verdade, é apenas uma distração — uma armadilha para os mais ingênuos. Afinal, que ladrão ou corrupto gostaria de ver sua imagem ou documentos privados usados em uma denúncia pública? Esse tipo de argumento visa justamente inviabilizar qualquer trabalho jornalístico sério. Imagine o impacto nas denúncias e flagrantes! Seria a morte do jornalismo investigativo. Ou se denuncia sem as imagens, correndo o risco de ser processado por calúnia (/um crime de opinião/), ou se apresenta as imagens e é processado por uso indevido de imagem.
+
+Devo admitir que esse clima direitista de censura foi amplamente impulsionado pela esquerda. Incapaz de vencer no campo do debate político e após uma série de erros de avaliação, a esquerda passou a se fiar na tentativa de controlar, silenciar e censurar. Contudo, o jogo da censura pertence à direita.
+
+Agora vem o mais curioso: se as cientistas cometeram um crime ao expor o nutricionista, a UOL, ao divulgar a história, poderia ser responsabilizada por relatar a "feitura do crime" — mesmo sem mostrar as informações pessoais do nutricionista? Por outro lado, as cientistas não poderiam processar a UOL por divulgar o processo e o vídeo que elas postaram? Afinal, elas também estão sendo expostas. E aqueles que compartilharam o vídeo, também deveriam ser processados?
+
+Com o PL da censura estacionado, podemos ver o vídeo do crime, discutir sobre ele, e até mesmo dizer (emitindo minha opinião) que crime algum foi cometido. -- Mas até quando poderemos fazer isso?
 
 
 

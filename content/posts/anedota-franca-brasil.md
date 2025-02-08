@@ -20,4 +20,4 @@ O pecuarista brasileiro, cujos interesses são diretamente afetados, também est
 
 Depois de todo esses imbróglio onde está o acadêmico? Ah, o acadêmico. Enfronhado na ideologia, está até agora tentando encontrar a solução definitiva para a "crise sanitária". Não apenas crê na ideologia com toda as forças, como crê que é o único capaz de soluciona-la.
 
-<span class="underline">Uma anedota sobre o carater pedagógico da proíbição dos celulares nas escolas.</span>
+<span class="underline">Uma anedota sobre o caráter pedagógico da proibição dos celulares nas escolas.</span>

@@ -142,6 +142,202 @@ In this edition, 14 out of 23 participants were Brazilians. As Brazil has a vibr
 I hope to see all the participants in Moscow to, once again, exchange precious
 questions and ideas.
 
+** TODO Dois caminhos analíticos :materialismo_dialetico:
+
+*** O caso
+
+No fim de julho de 2024, visitei a exposição /Saberes Tradicionais e Etnografia/, um dos casos me chamou a atenção.
+Intitulado /Pequenos agricultores do assentamento Vila Conceição/.
+
+#+begin_quote
+Uma liderança do assentamento denuncia que o governo em parceria com empresas e centros de educação (universidades federais e estaduais) vem oferecendo cursos de capacitação nas áreas da industria de papel e celulose.
+A demanda de cursos que pudessem profissionalizar a agricultura familiar e melhorar a tecnologia agrícola usada nunca foram atendidas.
+Muitos jovens abandonam a agricultura, trocam suas plantações por um trabalho com carteira assinada no cultivo e extração de eucalipto.
+Essa luta ideológica é muito mais difícil do que na época que a gente se escondia da espingarda.
+#+end_quote
+
+Esse caso me parece bem comum e corriqueiro.
+No interior do Brasil vem existir diversos casos semelhantes.
+Me parece também um caso que convida todos aqueles que estão envolvidos com a educação e que estão sedentos pela transformação social à refletir.
+Mas como analisar esse caso?
+
+Atualmente podemos encontrar ao menos dois tipos de análise sobre o caso colocado. Por um lado, temos as explicações /idealistas/, que poderiam, com algum prejuízo, ser chamadas de abordagens pós-modernas. Essa abordagem é atualmente dominante na academia e, por consequência, no ensino de ciências. Por outro lado, temos a abordagem materialista dialética, por vezes chamada de marxista. A despeito dos rótulos, essa sempre foi minoritária na academia e caminha se torna cada vez mais rara no ensino de ciências. Em uma rápida olhada as duas abordagens podem parecer próximas ou semelhantes, contudo isso é apenas uma ilusão, qualquer análise mais detida deve ser capaz de diferenciá-las. Como espero mostrar, diferença entre elas não é questão de pequenos ajustes nem dos níveis hierárquicos analisados. Ambas abordagem produzem explicações completamente antagônicas, com interpretação oposta dos fenômenos sociais e com solução e proposta de ação completamente opostas.
+
+*** O exame idealista
+
+No campo da abordagem idealista, a situação apresentada pode ser interpretada de diferentes formas a depender da teoria utilizada, contudo as nuances entre elas não são suficientes para retira-las do campo idealista.
+
+O problema pode ser considerado como um choque cultural, uma colisão entre duas constelações de valores.
+Por um lado teríamos os agricultores assentados com suas práticas próprias e seus conhecimentos tradicionais.
+Por outro lado, temos o poder público e o empresariado com sua necessidade egoística que ignora as necessidades e a visão de mundo dos agricultores.
+
+De certa forma, temos um educadores, gestores públicos e empresários que ignoram o outro (agricultor assentado). Não apenas ignora o outro como pessoa, ignora seus valores e conhecimentos. Aqueles que visam oferecer uma capacitação ligada a celulose desconhece o outro. Isso poderia ser caracterizado como uma forma de colonialismo epistêmico.
+
+Como o problema todo é visto como uma falha da consciência, ignorar as necessidades do outro -- ou de maneira mais poética, não reconhecer o outro como um ser legitimo, a solução é um reparo na consciência. Dentre outras coisas é aconselhado ir a comunidade de agricultores assentados, investigar a necessidade do outro e reconhecer o outro como um ser legítimo.
+
+Ir compreender a necessidade da comunidade antes de oferecer um curso profissionalizante parece algo sensato. Então por que isso não ocorre? Novamente recorreremos a análise da consciência dos envolvidos, dos seus valores. E novamente descobriríamos uma sanha colonial inexplicável.
+
+Por fim, depois de muito trabalho sobre a consciência do colonizador conseguiríamos um curso negociado com a comunidade. Se mantivermos o bom senso e seguirmos o que é colocado no relato da liderança do assentamento devemos ser capazes de oferecer um curso técnico agrícola.
+
+Provavelmente, incluiríamos também um curso sobre os conhecimentos tradicionárias daquela região, algo que em principio as pessoas que vivem e trabalham lá já sabem. Mas porque fazer isso? -- Não sei, o trabalho sobre a consciência tem dessas coisas.
+
+Assim o problema é visto como uma forma de *ignorância* de uns sobre outros. E o problema se torna um problema da consciência, por isso é tão facilmente tratado como um *problema do saber*.
+
+*** O exame marxista
+
+Como um marxista abordaria o mesmo caso? O primeiro passo está na análise dos processos e forças sociais concretas.
+
+O caso apresentado é típico do desenvolvimento industrial e foi visto, registrado e examinado em diversos casos no desenvolvimento da sociedade.
+
+Para que a industria possa se fixar e desenvolver de maneira competitiva ela precisa transformar aquelas pessoas que estão ligadas diretamente a terra (moram, trabalham e tem a posse da terra) em um grupo social diferente, um grupo social que seja despossuído. Em outros termos é necessário que os agricultores familiares se tornem trabalhadores assalariados na industria.
+
+As duas forças sociais colidem, por um lado, o governo e os empresários tentam realizar varias ações para retirar o trabalhador da terra e, por outro, a comunidade de agricultores resiste. O curso de papel e celulose é apenas uma ação desse processo de transformação social. Historicamente as ferramentas para a retirada dos camponeses da terra foram diversas, leis que dificultam o plantio e a propriedade da terra, compra e concentração da terra e, por fim, ameaças e uso da violência direta.
+
+Neste caso, aquele que oferece o curso conhece bem o desejo do camponês de permanecer na terra.
+Também sabe que oferecer uma formação técnica agrícola atua contra seu interesse de industrializar a região e, eventualmente, atua contra sua própria sobrevivência como industrial.
+
+Assim o problema da consciência aparece, não apenas forma distinta, mas completamente invertida daquela apresentada na primeira análise.
+Não é por *ignorar*, mas justamente pelo contrário, porque aquele que oferece o curso *está consciente* do processo social e dos seus interesses de classe é que o curso de técnico agrícola não pode ser oferecido.
+Em outras palavras, quanto mais consciente ele se torna do que está realmente em jogo, mais fortemente ele luta para não ter essa necessidade dos agricultores assentados atendida.
+
+Na outra ponta, o relato da liderança do assentamento expressa com alguma clareza as necessidades da comunidade, dos processos sociais e da contradição entre os interesses.
+
+
+
+
+
+
+
+
+
+
+
+
+** TODO Prólogo de Ratner ao The Colleced Works of Vygotsky: Child Psychology
+:PROPERTIES:
+:EXPORT_FILE_NAME: ratner-prologue
+:EXPORT_DATE: 2024-12-06T15:00:23-0300
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+
+
+
+
+Devo realizar uma leitura atenta do texto /The Collected Works of L. S. Vygotsky: Child Psychology - vol. 5/ [cite:@vygotsky1998] nas próximas semanas. A intenção com esse projeto é documentar as anotações e reflexões sobre o texto como postagens de /blog/. Minha esperaça é que isso facilite a recuperação de informações posteriormente e crie uma memória pública desse estudo. Espero que também possa servir como porta de entrada para estudantes e outras pessoas que pretendem iniciar os estudos sobre a teoria histórico-cultural de Vigotski.
+
+O texto incial é justamente o prólogo escrito por Carl Ratner [cite:@ratner1998]. O prólogo traz uma visão ampla do trabalho de Vigotski marcando pontos importantes da teoria histórico-cultural. A partir dessa leitura fica visivel certas caracteristicas do método dialético na organizar a investigação cinetífica.
+
+O problema do desenvolvimento aparece como ponto central, tanto como objeto da investigação, quanto como dispositivo organizador da invetigação científica. Problemas relacionados ao aparecimento das funções mentais superiores e a relação com o sistema psicológico geral exemplificam bem conceitos como mudança qualitativa, contradição e totalidade que muitas vezes parecem difíceis de compreender na filosofia.
+
+O volume é composto pela a tradução da primeira parte do livro /Pedologia do Adolescente/ de Vigotski, públicado ainda em vida, e outros textos que foram publicados apenas postumanemente. Contudo há pouca explicação sobre o projeto editorial e a escolha dos textos que compõem o volume e não há comentários sobre a pernincia geral do volume frente a outras obras já traduzidas para o inglês.
+
+Como o projeto de leitura ainda está no início, é dificil avaliar se os pontos levantados no texto representam de maneira satisfatória os argumentos apresentados por Vygotsky no volume como um todo. Mas me parece que os pontos trazidos por Ratner são muito pertinentes para exemplificar pontos relevantes do método de investigação histórico-cultural.
+
+
+*** Investigação do desenvolvimento
+
+#+begin_quote
+Ao invés de processos inferiores e superiores formarem uma graduação contínua na qual os processos iniciais engendram os posteriores, compõem seus componentes e afetam seu caráter, o desenvolvimento psicológico requer a introdução de novos mecanismos que gerem funções superiores novas e autônomas. [cite:@ratner1998]
+#+end_quote
+
+O que são as funções psicológicas superiores em relação ao conjunto do psiquismo e em relação às formas disponíveis anteriormente. A funções psicológicas superiores não aparecem como um contínuo, mas como uma contradição. Por outro lado, a contradição apresentada aqui não é uma mera descontinuidade ela é sobre tudo uma relação específica que dá suporte ao desenvolvimento.
+
+
+*** Mudanças apenas quantitativas, acumulo de caracteristicas
+
+#+begin_quote
+Vygotsky frequentemente criticava psicólogos que reconheciam apenas mudanças quantitativas no funcionamento psicológico. Uma afirmação expressa isso claramente: "se alguém mantém o ponto de vista [de que] o processo de mudanças intelectuais que ocorre na adolescência pode ser reduzido a uma simples acumulação quantitativa de características já estabelecidas no pensamento de uma criança de três anos... a palavra desenvolvimento não se aplica" (p. 29). Vygotsky era especialmente crítico de Thorndike para quem "formas superiores de pensar diferem das funções elementares apenas quantitativamente de acordo com o número de conexões associativas que entram em sua composição" (p.40). [cite:@ratner1998]
+#+end_quote
+
+Acrítica sobre a acumulação quantitativa das caracteristicas não é apenas uma crítica local, ela engendra o problema crucial da investigação do desenvolvimento.
+
+
+*** A reelaboração da brincadeira na adolenscencia
+
+#+BEGIN_QUOTE
+Vygotsky enfatizou como os fenômenos mudam à medida que se inter-relacionam com novos fatores. Por exemplo, o brincar com bonecas ou ferramentas por uma criança de dois anos e uma de quatro anos pode parecer externamente muito semelhante; no entanto, elas podem ter fundamentos e significados completamente diferentes devido à diferente configuração de fatores que os permeiam.  [cite:@ratner1998]
+#+END_QUOTE
+
+Esse é um aspecto importante para lembrar das investigações sobre o jogo e a brincadeira no ensino de ciências. Por exemplo, o jogo de papeis para os adolescentes é colocado em um contexto completamente diferente daquele observado nas crianças.
+
+Aqui também fica marcado o problema da investigação que não se detem nas formas aparentes. Algo semelhante foi tratado por Vygotsky ao discutir o problema da formação de conceitos e os diferentes estágios e aparencias que isso pode tomar.
+
+
+*** Desenvolvimento reestrutura as funções inciais
+:PROPERTIES:
+:NOTER_PAGE: (10 0.5257270693512305 . 0.1851851851851852)
+:HIGHLIGHT: #s(pdf-highlight 10 ((0.1851851851851852 0.5257270693512305 0.8595146871008941 0.6022371364653244)))
+:END:
+
+#+BEGIN_QUOTE
+After establishing that higher psychological functions are fundamentally different from lower ones, and that qualitative change is a fundamental law of human psychological development, Vygotsky explains what happens to the lower processes which have been superceded. They do not continue to function in the original state while being supplemented by higher processes. Thus, they do not interact with higher processes. Instead, the lower processes are restructured on a new base: -- Carl Ratner
+#+END_QUOTE
+*** Cerebro habilita, mas não controla
+:PROPERTIES:
+:NOTER_PAGE: (11 0.2532438478747204 . 0.5268199233716475)
+:HIGHLIGHT: #s(pdf-highlight 11 ((0.5268199233716475 0.2532438478747204 0.7592592592592593 0.283668903803132)))
+:END:
+
+#+BEGIN_QUOTE
+Thus, the human brain enables, rather than directs or controls, socially organized psychological phenomena (cf. Ratner, 1991, Chaps. 4, 5; Ratner 1989a, b for documentation of these points). -- Carl Ratner
+#+END_QUOTE
+
+
+
+*** Mover para além da descrição dos fenomenos
+:PROPERTIES:
+:NOTER_PAGE: (12 0.5597315436241611 . 0.18326947637292465)
+:HIGHLIGHT: #s(pdf-highlight 12 ((0.18326947637292465 0.5597315436241611 0.18901660280970628 0.7713646532438478)))
+:END:
+
+#+BEGIN_QUOTE
+Vygotsky argumentava que os fenômenos psicológicos só são verdadeiramente compreendidos se suas relações internas e características essenciais subjacentes forem discernidas. Isso, por sua vez, requer que os fenômenos sejam conceitualizados em conceitos abstratos. Consistente com sua filosofia racionalista, Vygotsky acreditava que o pensamento conceitual é um meio essencial para compreender a realidade. Ele disse, "aqueles que consideram o pensamento abstrato como um afastamento da realidade estão errados. Ao contrário, o pensamento abstrato reflete principalmente o mais profundo e verdadeiro, a revelação mais completa e minuciosa da realidade" (p. 47, este volume). "Reconhecendo a realidade concreta com a ajuda de palavras, que são sinais para conceitos, o homem descobre no mundo que vê conexões e padrões que estão confinados nele" (p. 48). "Sem pensar em conceitos, não há compreensão das relações que subjazem aos fenômenos. O mundo inteiro de conexões profundas que subjazem às aparências externas, o mundo de interdependências complexas e relações dentro de cada esfera de atividade e entre suas esferas separadas, só pode ser divulgado àquele que se aproxima dele com a chave do conceito" (p. 42). [cite:@ratner1998]
+#+END_QUOTE
+
+Em diversos escritos Vygotsky produz a crítica ao tipo de "ciência descritiva", que apesar de conseguir criar descrições precisas dos fenômenos, pouco consegue explicar. Na crítica realizada ao método de pesquisa desenvolvido por Piaget, Vygotsky discute como essa forma puramnete descritiva compremete a explicação dos fenômenos psicológicos observados e, por fim, compromete a própria observação.
+
+Neste caso aparece novamente o problemas das formas aparentes e a tarefa da investigação científica, como uma forma de encontrar os mecanismos internos, em outras palavras, os elementos essenciais do fenômeno sob estudo, seus mecanismos explicativos.
+
+
+*** Trabalho em grupo na infância e participação social :collaboration:ver_depois:
+:PROPERTIES:
+:NOTER_PAGE: (13 0.30827740492170025 . 0.23052362707535123)
+:HIGHLIGHT: #s(pdf-highlight 13 ((0.23052362707535123 0.30827740492170025 0.5804597701149425 0.3485458612975392)))
+:END:
+
+#+BEGIN_QUOTE
+Thus, we see that the child's logical deliberation is as if an argument transferred to within the personality and, in the process of the child's cultural development, the group form of behavior becomes an internal form of behavior of the personality. the basic method of this thinking (pp. 168-169, emphasis added). -- Vygotsky
+#+END_QUOTE
+*** O problema do externo e interno
+:PROPERTIES:
+:NOTER_PAGE: (13 0.6107966913365259 . 0.184472049689441)
+:HIGHLIGHT: #s(pdf-highlight 13 ((0.184472049689441 0.6107966913365259 0.6124223602484472 0.6269046582498912)))
+:END:
+
+#+BEGIN_QUOTE
+These examples all demonstrate that psychological functions are derived from social relations which exist externally to the individual. -- Carl Ratner
+#+END_QUOTE
+*** Lei geral do desenvolvimento
+:PROPERTIES:
+:NOTER_PAGE: (13 0.7348715716151502 . 0.29440993788819875)
+:HIGHLIGHT: #s(pdf-highlight 13 ((0.29440993788819875 0.7348715716151502 0.29751552795031055 0.7649107531562908)))
+:END:
+
+#+BEGIN_QUOTE
+"all internal higher functions were of necessity external. However, in the process of development, every external function is internalized and becomes internal" (p. 170). -- Carl Ratner
+#+END_QUOTE
+*** Notas sobre o prologo
+:PROPERTIES:
+:NOTER_PAGE: (14 0.6900304745319982 . 0.34596273291925467)
+:END:
+
+Traz uma visão ampla do trabalho do Vygotsky marcando pontos importantes da teoria histórico cultural. A partir dessa leitura fica visivel certas caracteristicas do método dialético de organizar a investigação. O problema do desenvolvimento aparece como ponto central, tanto como objeto da investigação, quanto como dispositivo organizador da invetigação científica.
+
+Problemas relacionados ao aparecimento das funções mentais superiores e a relação com o sistema psicológico geral exemplificam bemconceitos como mudança qualitativa, contradição e totalidade que muitas vezes parecem difíceis de compreender na filosofia.
+
+A função psicológica superior não é uma mera derivação das funções psicológicas inferiores. Há uma contradição entre as duas formas, por isso, podemos identificar uma mudança de qualidade no processo de desenvolvimento. A memória como vemos no adolescente já está subordinada pelo pensamento conceitual e não guarda semelhanças com a memória presente na criança, uma forma anterior muito mais relacionada ao objeto material.
+
 * Conferences :@conferences:meeting:
 ** Confereces & Meetings in 2024
 :PROPERTIES:
@@ -320,6 +516,26 @@ Com o PL da censura estacionado, podemos ver o vídeo do crime, discutir sobre e
 /Mas até quando poderemos fazer isso?/
 
 
+** Na França e no Brasil: quase todos sabem
+:PROPERTIES:
+:EXPORT_FILE_NAME: anedota-franca-brasil
+:EXPORT_DATE: 2025-02-07
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+Quando a França limita a importação de carnes do Brasil, o presidente francês anuncia à imprensa que é por "questões sanitárias". O discurso sanitário tem uma função clara: ocultar o verdadeiro motivo, que é o protecionismo do mercado francês, em defesa dos interesses dos produtores locais de proteína animal. Assim, o argumento sobre a questão sanitária é pura _ideologia_, uma máscara.
+
+Os brasileiros, observando a situação sem estarem diretamente envolvidos, se preocupam: existe uma crise sanitária no Brasil? Estou consumindo carne de má qualidade? Seus temores são construídos diariamente por essa ideologia, e quanto mais se envolvem nessas inquietações, mais desafiador se torna discernir o que está acontecendo.
+
+Há os ideólogos, que criam argumentos, escavam estudos e tentam direcionar a conversa com um verniz de seriedade e razão. Os analistas da mídia. Eles têm uma única missão: desviar a discussão do verdadeiro motivo, o protecionismo francês.
+
+Contudo, existem aqueles que, por várias razões, enxergam rapidamente a situação como ela é – não devido a uma visão superior ou educação excepcional, mas porque a máscara nunca é totalmente impenetrável. Um dos primeiros a perceber isso é o pecuarista francês, que vê seus interesses protegidos. O político francês garante que ele compreenda isso e busca a reeleição.
+
+O pecuarista brasileiro, cujos interesses são diretamente afetados, também está atento. Ele precisa descobrir como combater essa barreira comercial. Entre as opções, pode-se resignar e buscar outros mercados. Mas por vezes, confrontar o embuste e apontando a real motivação: "o protecionismo francês", buscando derrubar a mascara da argumentação ideológica.
+
+Depois de todo esses imbróglio onde está o acadêmico? Ah, o acadêmico. Enfronhado na ideologia, está até agora tentando encontrar a solução definitiva para a "crise sanitária". Não apenas crê na ideologia com toda as forças, como crê que é o único capaz de soluciona-la.
+
+_Uma anedota sobre o caráter pedagógico da proibição dos celulares nas escolas._
 
 ** TODO Nem tudo que reluz é ouro, as bolsas e permanencia estudantil devem ser desenhados
 
@@ -351,6 +567,104 @@ The confusion with -- efeito manada.
 The other -- 'otherness'.
 
 The need for theory and the framentation of exemplos.
+
+** A proibição dos celulares nas escolas é uma questão política e não pedagógica
+:PROPERTIES:
+:EXPORT_FILE_NAME: proibicao-celulares-politica
+:EXPORT_DATE: 2025-03-25
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+Começamos 2025 com uma novidade: a proibição dos celulares no ambiente escolar. A decisão veio acompanhada de um amplo consenso parlamentar e, mesmo entre os educadores, me parece ter sido recebida sem muita crítica.
+
+Em 12 de novembro de 2024, [[https://www.al.sp.gov.br/noticia/?12/11/2024/parlamentares-da-alesp-aprovam-por-unanimidade-proibicao-do-uso-de-celulares-em-sala-de-aula-][os parlamentares da Assembleia Legislativa do Estado de São Paulo (Alesp)]] aprovaram por unanimidade a [[https://www.al.sp.gov.br/spl/2024/12/Acessorio/1000595692_1000737950_Acessorio.pdf][Lei 18.058/2024]], que proíbe a utilização de celulares e outros dispositivos eletrônicos nas escolas públicas e privadas do estado de São Paulo. Essa lei é uma ampliação da proibição já existente, que veda o uso de telefones celulares durante o horário das aulas desde 2007 (ver a [[https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/lei-16567-06.11.2017.html][Lei 12.730/2007]]).
+
+Em 13 de janeiro de 2025, entrou em vigor a [[https://www.in.gov.br/en/web/dou/-/lei-n-15.100-de-13-de-janeiro-de-2025-606772935][Lei Federal 15.100/2025]], que proíbe "a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais, inclusive telefones celulares, nos estabelecimentos públicos e privados de ensino da educação básica". A proibição em todo o território nacional abrange o uso "durante a aula, o recreio ou intervalos entre as aulas".
+
+No fim de seu Art. 1º, a lei federal apresenta ainda uma justificativa: "com o objetivo de salvaguardar a saúde mental, física e psíquica das crianças e adolescentes." A saúde mental é apresentada como principal pretexto. Na matéria veiculada pelo Ministério da Educação (MEC), já aparece uma ampliação da justificativa, incluindo efeitos sobre aprendizagem e concentração.
+
+#+begin_quote
+"A legislação surge em resposta ao crescente debate sobre o uso desses aparelhos nas escolas, que gera grande preocupação a especialistas e à população em geral, devido aos impactos negativos no aprendizado, na concentração e na saúde mental dos jovens." [[https://www.gov.br/mec/pt-br/assuntos/noticias/2025/fevereiro/restricao-ao-uso-do-celular-nas-escolas-ja-esta-valendo][(MEC, 2025)]]
+#+end_quote
+
+A imprensa mais comprometida com a proibição faz um certo malabarismo argumentativo para mostrar que a restrição do uso de celulares fora dos horários de aula traz benefícios sensíveis para a aprendizagem. Contudo, os argumentos são sustentados apenas em impressões gerais e demandam um voto de confiança de que os benefícios possam um dia existir. Sem muito sucesso, alguns artigos se arriscam a endereçar a gritante contradição entre a proibição de uma tecnologia no ambiente escolar e o discurso pedagógico que aponta a necessidade de modernização da escola, da conexão da escola com as questões sociais mais amplas e com a preparação do estudante para o mundo contemporâneo ([[https://www.uol.com.br/tilt/noticias/redacao/2025/01/13/uso-celular-escola-alunos-criancas-lei.htm][UOL]], [[https://g1.globo.com/podcast/o-assunto/noticia/2025/01/27/o-assunto-1393-escola-sem-celular-crise-de-abstinencia-e-adaptacao.ghtml][G1]]).
+
+Na matéria da BBC com o título /"Proibir celular nas escolas não melhora notas nem bem-estar, segundo pesquisa"/, discute-se uma pesquisa acadêmica publicada na Lancet, em que não é encontrada nenhuma associação entre as proibições nas escolas e a melhora do desempenho escolar ou do bem-estar mental dos estudantes. A matéria também esclarece que a questão não é o mero uso de celulares ou telas, mas sim o acesso às redes sociais.
+
+Algo que pareceria um recuo em relação à política de proibição — já que não mostra o efeito pedagógico esperado — surpreende. O artigo acadêmico pondera que a proibição dos celulares na escola é uma medida isolada e não é suficiente para que os benefícios sejam perceptíveis. A recomendação é tratar da questão considerando o uso dentro e fora da escola, ou seja, é preciso ampliar a proibição para além da escola. Seguindo o lema: /Não funciona, mas temos que ampliar!/
+
+#+begin_quote
+"Descobrimos que essas proibições, de forma isolada, não são suficientes para lidar com os impactos negativos", diz a pesquisadora. "Precisamos fazer mais do que apenas proibir telefones nas escolas", sugere ela. ([[https://www.bbc.com/portuguese/articles/cvg8k47xll9o#:~:text=A%20nova%20lei%20pretende%20equilibrar,infantil%20at%C3%A9%20o%20ensino%20m%C3%A9dio][BBC, 2025]])
+#+end_quote
+
+O artigo acadêmico conclui com:
+
+#+begin_quote
+[...] não há evidências de que essas políticas restritivas, em suas formas atuais, tenham um efeito benéfico na saúde mental e no bem-estar dos adolescentes, ou em resultados relacionados. Isso indica que os objetivos dessas políticas — melhorar a saúde, o bem-estar e o engajamento educacional dos adolescentes — não estão sendo alcançados. Nossos dados sugerem que intervenções para reduzir o tempo gasto em celulares e redes sociais com o intuito de promover o bem-estar mental dos adolescentes são plausíveis, mas que o uso dentro e fora da escola deve ser considerado em conjunto. [...] Essa abordagem não exclui necessariamente políticas escolares restritivas quanto ao uso de celulares, mas as insere em uma estratégia mais ampla e holística para lidar com o uso de celulares e redes sociais por adolescentes.[...]
+#+end_quote
+
+A urgência e unanimidade na aprovação dessas leis, que atingem um número grande de estudantes, levanta suspeitas. Será que há uma preocupação súbita dos parlamentares em relação à saúde mental e à baixa aprendizagem dos estudantes? Vivendo no Brasil e conhecendo o parlamento que temos, é muito difícil acreditar que essa seja a razão. Se não for a razão declarada, o que está em jogo nessa ampliação das proibições? A preocupação me parece estar longe de ser médica ou pedagógica; é, sobretudo, uma questão política. A proibição dos celulares nas escolas não visa apenas afastar os estudantes dos aparelhos e das telas — a questão está em manter a juventude o mais longe possível das redes sociais. Uma diferença sutil, mas importante.
+
+Há um crescente esforço para associar as redes sociais à radicalização da juventude e um igual empenho no controle da circulação de informação na internet e na censura nas redes sociais — algo que geralmente é apresentado como uma regulação das grandes empresas de tecnologia. O principal receio é a cooptação da juventude pela extrema direita, que tem uma atuação intensa na internet e nas redes sociais.
+
+Em diversos países, como é o caso da União Europeia e do Reino Unido, em que os regimes políticos estão em crise, aparece uma polarização política cada vez mais aguda. É justamente nesses países que as proibições e restrições à participação dos jovens nas redes sociais avançam a passos largos. Em grande medida influenciada por essa propaganda, grande parte da esquerda brasileira apoia a proibição na esperança de manter a juventude desmobilizada e longe dos apelos da extrema direita.
+
+A justificativa pedagógica e de proteção das nossas crianças é criada para comover. Ela apela ao instinto de sobrevivência de inúmeros professores, que são colocados em situações dramáticas, sem tempo e sem recursos, e que devem manter a atenção e educar centenas de estudantes todos os dias. Nessa situação, não é de se admirar que os professores abracem qualquer coisa que lhes pareça uma boia salva-vidas — mesmo que seja uma âncora. A justificativa apresentada não passa de um distrator, uma armadilha ideológica que visa encobrir aquilo que realmente está em jogo. Por fim, a armadilha ideológica faz com que aqueles que ontem se colocavam como destruidores dos muros escolares, hoje se encontrem eles mesmos pedreiros.
+
+** Por que apoiar o Irã?
+:PROPERTIES:
+:EXPORT_FILE_NAME: apoio-ao-ira
+:EXPORT_DATE: 2025-06-22
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:END:
+
+#+caption: Ali Khamenei, Líder Supremo do Irã.
+[[file:/img/ali-khamenei-2025.webp]]
+
+Na madrugada do dia 13 de junho, Israel lançou um ataque contra o Irã, em meio às negociações entre Teerã e Washington sobre o programa nuclear iraniano. Poucos dias depois, em 21 de junho, os Estados Unidos também atacaram centros de processamento nuclear no Irã — os mesmos alvos atingidos inicialmente por Israel.
+
+O principal argumento para justificar esses ataques unilaterais e ilegais é que o Irã estaria direcionando seu programa nuclear ao desenvolvimento de armamentos atômicos. A ideia seria que um bombardeio às instalações enfraqueceria o programa nuclear como um todo e impediria o país de adquirir capacidade bélica nuclear.
+
+No entanto, em março, em depoimento ao Congresso dos Estados Unidos, a diretora de inteligência norte-americana, Tulsi Gabbard, afirmou não haver qualquer evidência de que o Irã estivesse desenvolvendo armas nucleares. Ainda assim, no fim de maio, a Agência Internacional de Energia Atômica (AIEA), sediada na Áustria, publicou um relatório ambíguo, afirmando não poder garantir que o programa iraniano era exclusivamente pacífico. Esse relatório foi usado como pretexto para legitimar os ataques.
+
+*** Carnificina e destruição: o mesmo roteiro de sempre
+
+Não é preciso muito esforço para lembrar o que marcou as primeiras décadas do século XXI: um período iniciado pelos atentados às torres gêmeas em 2001 e pela subsequente “guerra ao terror”.
+
+Sob o pretexto de capturar Osama bin Laden, a OTAN — sob liderança dos Estados Unidos — invadiu e ocupou o Afeganistão, uma guerra que duraria 20 anos. A coalizão dos países mais ricos do mundo ocupou um dos países mais pobres, provocando o deslocamento de milhões de pessoas e a morte de dezenas de milhares de civis. Ao longo da ocupação, multiplicaram-se os casos de violações de direitos humanos e crimes de guerra cometidos pelo Exército norte-americano.
+
+Internamente, a chamada "Patriot Act" suspendeu uma série de garantias civis nos Estados Unidos, criando mecanismos de vigilância e controle da população em nome da segurança nacional, enquanto as guerras se expandiam pela Ásia.
+
+A invasão do Iraque, em 2003, expôs com ainda mais clareza o modus operandi do imperialismo. Naquele momento, acusava-se o governo de Saddam Hussein de desenvolver armas de destruição em massa — uma alegação que jamais foi comprovada. Sob essa justificativa forjada, deu-se início à ocupação militar do país. O saldo foi catastrófico: centenas de milhares de civis mortos, milhões de deslocados, crimes de guerra, e a destruição quase total do país. Mesmo com a retirada formal das tropas em 2011, os EUA mantêm até hoje bases militares no território iraquiano.
+
+Em 2011, foi a vez da Líbia. Sob o argumento de remover Muammar Gaddafi — então acusado de desenvolver um programa nuclear — a OTAN bombardeou o país, matando milhares de civis e mergulhando o que era uma das nações mais desenvolvidas da África em um colapso social e político irreversível.
+
+Somália, Sudão, Iêmen — os exemplos se multiplicam ao longo das duas primeiras décadas deste século. Em todos eles, o padrão se repete: o discurso da intervenção "preventiva" serve de cortina para massacres, destruição e aprofundamento da miséria.
+
+*** Irã: soberania e resistência
+
+Em 1953, os governos do Reino Unido e dos Estados Unidos orquestraram um golpe de Estado no Irã, derrubando o primeiro-ministro Mohammad Mossadegh, que havia nacionalizado o petróleo até então controlado pelos britânicos. Em seu lugar, reinstauraram a ditadura do xá Mohammad Reza Pahlavi, governo títere do imperialismo.
+
+O regime do xá ficou marcado pela brutalidade: torturas, execuções e censura sistemática da oposição. Sua polícia secreta, a SAVAK, tornou-se sinônimo de terror, uma das mais brutais conhecidas.
+
+Não são poucas as ditaduras impostas pelo imperialismo americano e europeu ao longo do século XX — também nós, na América Latina, conhecemos bem isso.
+
+Foi apenas em 1979, após uma ampla mobilização popular, que o regime do xá foi derrubado na Revolução Iraniana. Desde então, o país tem enfrentado sanções econômicas severas, que penalizam principalmente a população civil. Trata-se de uma arma recorrente do imperialismo contra todos os povos que ousam desafiar sua dominação.
+
+Aos que defendem que o Irã não deve ter acesso a armamentos nucleares, é preciso lembrar que várias nações já possuem essas armas — mas, até hoje, apenas uma as utilizou. Foram os Estados Unidos, que lançaram bombas atômicas sobre as populações civis de Hiroshima e Nagasaki, causando centenas de milhares de mortos e feridos. São esses mesmos senhores que hoje tentam convencer o mundo sobre o perigo iraniano.
+
+*** A luta palestina
+
+O Irã é hoje o único país que, de forma concreta, apoia a resistência palestina e denuncia o genocídio em curso na Faixa de Gaza. Enquanto governos árabes assistem passivamente ao massacre — e, em muitos casos, colaboram com Tel Aviv —, Teerã tem oferecido apoio político e material à causa palestina. E é justamente por isso que o país se tornou alvo de constantes ataques.
+
+A retaliação iraniana aos bombardeios israelenses também deve ser vista no contexto da luta pela libertação da Palestina. Gaza é atacada diariamente; os mortos já se contam em centenas de milhares, e Israel segue impune. A resposta do Irã representa, portanto, uma ruptura com essa lógica de impunidade.
+
+Diante da história, dos fatos e das consequências da dominação imperialista, considero que uma vitória da República Islâmica do Irã é efetivamente um avanço para a luta de todos os povos oprimidos e para a humanidade como um todo.
+
+É por isso que apoio o Irã.
+
+
+
 
 * NO New ideas :noexeport:
 ** TODO A falsa contradição entre direito individual e coletivo no caso a restrição da liberdade de expressão

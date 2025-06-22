@@ -2,7 +2,8 @@ baseURL: https://www.rodrigues-am.xyz/
 title: André Rodrigues
 theme: PaperMod
 
-paginate: 10
+pagination:
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -75,7 +76,7 @@ params:
     Title: "Hi there 😎 \U0001F44B"
     Content: Welcome to my blog
 
-  socialIcons:
+  social:
     - name: email
       url: "rodrigues.am@usp.br"
     - name: twitter
@@ -138,6 +139,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+
+ignoreLogs: ['warning-goldmark-raw-html']
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true

@@ -615,8 +615,14 @@ A justificativa pedagógica e de proteção das nossas crianças é criada para 
 :PROPERTIES:
 :EXPORT_FILE_NAME: apoio-ao-ira
 :EXPORT_DATE: 2025-06-22
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :comments true
 :END:
+
+#+begin_description
+
+Organizei em alguns poucos parágrafos os argumentos que considero ser importante para compreender a posição sobre o apoio ao Irã nos conflitos recentes.
+
+#+end_description
 
 #+caption: Ali Khamenei, Líder Supremo do Irã.
 [[file:/img/ali-khamenei-2025.webp]]

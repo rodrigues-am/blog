@@ -1,6 +1,7 @@
 +++
 title = "Por que apoiar o Irã?"
 author = ["André Rodrigues"]
+summary = "Organizei em alguns poucos parágrafos os argumentos que considero ser importante para compreender a posição sobre o apoio ao Irã nos conflitos recentes."
 date = 2025-06-22
 categories = ["opinião", "política"]
 draft = false

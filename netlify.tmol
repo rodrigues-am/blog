@@ -1,19 +1,2 @@
-[build]
-  publish = "public"
-  command = "git submodule update --init --recursive || true && hugo --gc --minify -b ${URL}"
-
 [build.environment]
   HUGO_VERSION = "0.129.0"
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
-
-# Deploy preview usa a URL de preview do Netlify
-[context.deploy-preview]
-  command = "git submodule update --init --recursive || true && hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
-
-# (Opcional) Redirect 'www' -> raiz
-[[redirects]]
-  from = "https://www.rodrigues-am.xyz/*"
-  to = "https://rodrigues-am.xyz/:splat"
-  status = 301
-  force = true

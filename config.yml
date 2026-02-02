@@ -139,6 +139,9 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
 
 ignoreLogs: ['warning-goldmark-raw-html']
     # anchorLineNos: true

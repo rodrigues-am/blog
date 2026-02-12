@@ -1,0 +1,11 @@
+<div class="alert alert-{{ .Get 0 | default "info" }}">
+    <div class="alert-heading">
+        {{ if eq (.Get 0) "warning" }} ⚠ Aviso
+        {{ else if eq (.Get 0) "danger" }} 🚫 Importante
+        {{ else }} ℹ Nota
+        {{ end }}
+    </div>
+    <div class="alert">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

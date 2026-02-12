@@ -1,0 +1,37 @@
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil date:nil
+#+LATEX_COMPILER: lualatex
+#+LATEX_CLASS: scrartcl
+#+LATEX_CLASS_OPTIONS: [fontsize=13pt,twocolumn]
+
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{Roboto}
+
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \definecolor{darkgray}{gray}{0.3}
+
+#+LATEX_HEADER: \usepackage{scrlayer-scrpage}
+#+LATEX_HEADER: \pagestyle{scrheadings}
+#+LATEX_HEADER: \ihead{\textcolor{darkgray}{\textbf{OPINIÃO}}}
+#+LATEX_HEADER: \ohead{\textcolor{darkgray}{22 de junho de 2025}}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0.5pt}
+#+LATEX_HEADER: \renewcommand{\headrule}{\color{darkgray}\hrule height \headrulewidth \vskip -\headrulewidth}
+
+#+LATEX_HEADER: \usepackage[top=2cm,bottom=2.5cm,left=2cm,right=2cm]{geometry}
+#+LATEX_HEADER: \setlength{\columnsep}{0.8cm}
+#+LATEX_HEADER: \setlength{\parskip}{1.5\baselineskip}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \linespread{1.15}
+
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \setlength{\droptitle}{-1.5cm}
+#+LATEX_HEADER: \pretitle{\begin{flushleft}\LARGE\bfseries}
+#+LATEX_HEADER: \posttitle{\end{flushleft}}
+#+LATEX_HEADER: \preauthor{\begin{flushleft}\large}
+#+LATEX_HEADER: \postauthor{\end{flushleft}}
+#+LATEX_HEADER: \predate{\begin{flushleft}\small}
+#+LATEX_HEADER: \postdate{\end{flushleft}\vspace{-1em}}
+
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \let\oldmaketitle\maketitle
+#+LATEX_HEADER: \renewcommand{\maketitle}{\oldmaketitle\thispagestyle{scrheadings}}

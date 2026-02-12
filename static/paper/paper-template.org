@@ -1,0 +1,55 @@
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil date:nil
+
+#+LATEX_COMPILER: lualatex
+
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{Roboto}[UprightFont = *-Regular,BoldFont    = *-Bold, ItalicFont  = *-Italic]
+
+#+LATEX_HEADER: \usepackage{setspace}
+
+#+LATEX_HEADER: \linespread{1} % espaçamento entre linhas
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parskip}{0.2\baselineskip} % espaçamento entre parágrafos
+#+LATEX_HEADER: \setlength{\parindent}{14pt} % remove indentação (opcional, se quiser estilo de artigo de opinião)
+
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \definecolor{darkgray}{gray}{0.3}
+
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \fancyhf{}
+#+LATEX_HEADER: \fancyhead[L]{\textcolor{darkgray}{\textbf{OPINIÃO}}}
+#+LATEX_HEADER: \fancyhead[R]{\textcolor{darkgray}{22 de junho de 2025}}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{.5pt}
+#+LATEX_HEADER: \renewcommand{\headrule}{{\color{darkgray}\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}}
+
+#+LATEX_HEADER: \fancyheadoffset[L]{0cm}
+#+LATEX_HEADER: \fancyheadoffset[R]{0cm}
+#+LATEX_HEADER: \fancyhfoffset[L]{0cm}
+#+LATEX_HEADER: \fancyhfoffset[R]{0cm}
+#+LATEX_HEADER: \setlength{\headwidth}{\dimexpr\paperwidth-2in}
+
+#+LATEX_HEADER: \usepackage[top=2cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
+#+LATEX_HEADER: \setlength{\headwidth}{\linewidth}
+#+LATEX_HEADER: \usepackage{multicol}
+#+LATEX_HEADER: \setlength{\columnsep}{1cm}
+#+LATEX_CLASS_OPTIONS: [twocolumn]
+
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \setlength{\droptitle}{0cm} % espaço acima do título
+#+LATEX_HEADER: \preauthor{\vspace{4em}\begin{center}\large} % reduz antes do autor
+#+LATEX_HEADER: \postauthor{\end{center}\vspace{0m}}       % reduz depois do autor
+#+LATEX_HEADER: \predate{\vspace{0em}\begin{center}\small}
+#+LATEX_HEADER: \postdate{\end{center}\vspace{0em}}
+
+#+LATEX_HEADER: \pretitle{\begin{flushleft}\headerfont\LARGE\bfseries}
+#+LATEX_HEADER: \posttitle{\end{flushleft}}
+#+LATEX_HEADER: \preauthor{\begin{flushleft}\headerfont\large}
+#+LATEX_HEADER: \postauthor{\end{flushleft}}
+#+LATEX_HEADER: \predate{\begin{flushleft}\headerfont\small}
+#+LATEX_HEADER: \postdate{\end{flushleft}}
+
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \let\oldmaketitle\maketitle
+#+LATEX_HEADER: \renewcommand{\maketitle}{\oldmaketitle\thispagestyle{fancy}}

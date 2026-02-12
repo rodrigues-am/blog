@@ -1,7 +1,7 @@
 +++
 title = "Sobre a IAGen e o modismo na pesquisa educacional"
 author = ["André Rodrigues"]
-summary = "Um breve comentário sobre a inteligência artificial generativa e as o modismo nas pesquisas educacionais. Comentário a um argumento específico apresentado no editorial: Azevedo &amp; Santos (2025) Primazia da dimensão utilitária e recuo crítico: inteligência artificial generativa e os valores em disputa na ciência, Ensaio Pesquisa em Educação em Ciências (Belo Horizonte)."
+summary = "Um breve comentário sobre a inteligência artificial generativa (IAGen) e as o modismo nas pesquisas educacionais. Comentário a um argumento específico apresentado no editorial: Azevedo &amp; Santos (2025) Primazia da dimensão utilitária e recuo crítico: inteligência artificial generativa e os valores em disputa na ciência, Ensaio Pesquisa em Educação em Ciências (Belo Horizonte)."
 date = 2026-02-02
 tags = ["001w6y2026", "ia", "pesquisa"]
 categories = ["boletim"]
@@ -11,7 +11,7 @@ weight = 200
   image = "/img/robot.jpg"
 +++
 
-Recentemente, foi publicado na revista "Ensaio Pesquisa em Educação em Ciências" um editorial abordando o uso da inteligência artificial generativa na pesquisa em educação em ciências.
+Recentemente, foi publicado na revista "Ensaio Pesquisa em Educação em Ciências" um editorial abordando o uso da inteligência artificial generativa (IAGen) na pesquisa em educação em ciências.
 Com o objetivo de convidar a comunidade para um diálogo aberto e crítico, os autores levantam diversos pontos que merecem uma análise cuidadosa.
 Dentre eles, chama a atenção uma crítica que, inicialmente, poderia parecer lateral, mas que serve como ponto de partida para problematizar o _modismo_ na pesquisa educacional.
 
@@ -42,7 +42,7 @@ A crítica de que a pesquisa educacional não consegue fornecer respostas signif
 Por fim, a ideia de que o fenômeno do _modismo_ na pesquisa educacional possa ser analisado de forma isolada, especialmente no caso da inteligência artificial generativa, parece pouco razoável.
 Também mantenho certo ceticismo em relação à magnitude desse fenômeno e à sua suposta nocividade em comparação com outros _modismos_ que marcaram a história da pesquisa em educação.
 
-## Referências
+## Bibliography
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Azevedo, N. H., &#38; Santos, P. G. F. dos. (2025). Primazia da dimensão utilitária e recuo crítico: inteligência artificial generativa e os valores em disputa na ciência. <i>Ensaio Pesquisa em Educação em Ciências (Belo Horizonte)</i>, <i>27</i>, e59484. <a href="https://doi.org/10.1590/1983-2117-59484">https://doi.org/10.1590/1983-2117-59484</a></div>

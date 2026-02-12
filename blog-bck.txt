@@ -768,16 +768,13 @@ Produzir as apresentações com Daniel Fontes e Lucas Fauser.
 *** Sobre a IAGen e o modismo na pesquisa educacional :ia:pesquisa:
 :PROPERTIES:
 :EXPORT_FILE_NAME: iagen-modismo-pesquisa
-:EXPORT_BIBLIOGRAPHY:  ~/notas/bib/bib.bib
-:EXPORT_CITE_EXPORT:  csl /home/andre/Zotero/styles/apa.csl
 :EXPORT_DATE: 2026-02-02
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :math true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "/img/robot.jpg"))
 :END:
 
 #+bibliography: ~/notas/bib/bib.bib
-#+cite_export:   csl /home/andre/Zotero/styles/apa.csl
+#+cite_export: csl ~/Zotero/styles/apa.csl
 
 #+begin_description
 Um breve comentário sobre a inteligência artificial generativa (IAGen) e as o modismo nas pesquisas educacionais. Comentário a um argumento específico apresentado no editorial: Azevedo & Santos (2025) Primazia da dimensão utilitária e recuo crítico: inteligência artificial generativa e os valores em disputa na ciência, Ensaio Pesquisa em Educação em Ciências (Belo Horizonte).
@@ -817,148 +814,3 @@ Por fim, a ideia de que o fenômeno do /modismo/ na pesquisa educacional possa s
 Também mantenho certo ceticismo em relação à magnitude desse fenômeno e à sua suposta nocividade em comparação com outros /modismos/ que marcaram a história da pesquisa em educação.
 
 #+print_bibliography:
-
-** 002w7y2026 :002w7y2026:
-*** O problema do "sapo fervendo" no ensino de física :ia:paper:
-:PROPERTIES:
-:EXPORT_FILE_NAME: index
-:EXPORT_DATE: 2026-02-11
-:EXPORT_BIBLIOGRAPHY: ./content/posts/ia-frog-paper/paper-ref.bib
-:EXPORT_CITE_EXPORT:  csl /home/andre/Zotero/styles/chicago-notes-bibliography.csl
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :math true
-:EXPORT_HUGO_BUNDLE: ia-frog-paper
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover-frog-paper.png"))
-:END:
-
-#+bibliography:  ./content/posts/ia-frog-paper/paper-ref.bib
-#+cite_export:   csl /home/andre/Zotero/styles/chicago-notes-bibliography.csl
-
-#+begin_description
-Esse texto é uma tradução livre do artigo recém publicado na revista /The Physics Teacher/ sobre os impactos da inteligência artificial no ensino de Física.
-#+end_description
-#+begin_alert-warning
-#+begin_alert-heading
-📄 Nota
-#+end_alert-heading
-Esse texto é uma tradução livre do artigo:
-*Kortemeyer, G.* (2026). The Boiling-Frog Problem of Physics Education. /The Physics Teacher/, 64(1), 8–12. https://doi.org/10.1119/5.0296601
-
-O aquivo original pode ser encontrado [[file:paper-kortemeyer-2026.pdf][aqui]].
-#+end_alert-warning
-
-**** Resumo
-
-Ferramentas de IA generativa de uso geral evoluíram a ponto de fornecer respostas corretas para quase todas as nossas avaliações de física introdutória, a qualquer momento e sob demanda; como resultado, já não funciona utilizar respostas corretas como substitutos de raciocínio correto, compreensão conceitual e epistemologias. Como ocorre a cada novo lançamento de modelos, a IA vai, pouco a pouco, aumentando a pressão sobre nossos métodos tradicionais de ensino, e talvez seja necessário dar um salto em direção a uma orientação ao processo e a um foco em modos de pensar; os estudantes precisam aprender a formular as perguntas certas e a avaliar as respostas utilizando aquilo que os físicos sempre valorizaram: modelagem, estimativas, cálculos de ordem de grandeza, colaboração, esboços e ceticismo, entre outras habilidades e características humanas de nível especialista. São apresentadas várias sugestões de como os docentes podem redirecionar o foco para o processo de resolução de problemas e para atividades baseadas em pesquisa que envolvam os estudantes na aprendizagem sem sacrificar o rigor. Uma reestruturação cuidadosa do currículo introdutório pode ser capaz de enfrentar o desafio apresentado pela IA ao concentrar-se em habilidades e características humanas, bem como no conhecimento fundamental necessário para trabalhar de forma segura e produtiva em um mundo no qual a IA pode se tornar onipresente.
-
-**** Introdução
-
-Quando avaliei pela primeira vez o GPT-3.5 no contexto do ensino de física, o modelo mal teria sido aprovado no curso baseado em cálculo que ministro há décadas: fraco com números, pouco confiável na interpretação de gráficos e propenso a erros de raciocínio típicos de iniciantes [cite:@kortemeyer2023a] — um desempenho surpreendentemente bom, mas fraco em termos absolutos, e ainda não era um motivo de preocupação. O GPT-4o, em contraste, obteve pontuação acima da média de estudantes de graduação após a instrução em levantamentos conceituais de física  [cite:@kortemeyer2023b]; a multimodalidade permitiu a interpretação básica de diagramas e imagens, mas seu raciocínio permaneceu longe do nível especialista. Com o lançamento do /GPT-5 Thinking/ [cite:@openai2026gpt5], a pergunta natural é: onde se situa seu desempenho no continuum iniciante–especialista, e o que os docentes devem extrair disso?
-
-**** Resultados
-*****  Aplicação mecânica de fórmulas
-
-Há uma década, publiquei um estudo levemente exasperado sobre nossa batalha perdida contra o /“plug-and-chug”/ [cite:@kortemeyer2016]  — a tendência do iniciante de inserir números imediatamente nas fórmulas, levar o resultado para a fórmula seguinte e repetir o processo. A tarefa central era um “problema padrão de elevador”:
-
-a) Uma mulher está em pé sobre uma balança em um elevador em movimento. Sua massa é de $60\, \text{kg}$, e a massa combinada do elevador e da balança é mais $815 \, \text{kg}$. Partindo do repouso, o elevador acelera para cima. Durante a aceleração, há uma tensão de $9410\, \text{N}$ no cabo de sustentação. O que a balança indica durante a aceleração (em newtons)?
-b) Sem nenhum bom motivo, o experimento é transferido para a Lua, onde a aceleração gravitacional é cerca de $\frac{1}{5}$ da Terra. Mantendo a tensão no cabo de sustentação a mesma, o que a balança indica agora?
-c) De volta à Terra, uma criança pequena com massa de $12\, \text{kg}$ (isto é, $\frac{1}{5}$ da massa da mulher) anda no elevador, novamente mantendo a mesma tensão no cabo de sustentação. O que a balança indica agora?
-
-O problema tem duas armadilhas comuns de substituição mecânica nas formulas:
-
-- Gastar tempo na parte (b) sem perceber que o resultado é independente de g.
-- Supor que a resposta da parte (c) é simplesmente um quinto da resposta da parte (a).
-
-Quando o problema é enviado como PDF e se faz o pedido direto “resolva este problema, gere a saída em $\LaTeX$”, a solução do /GPT-5 Thinking/ evita as duas armadilhas: ele prossegue simbolicamente, mostra que $g$ é cancelado e inclui uma verificação rápida de consistência usando cinemática elementar (ver Fig. [[fig1]]). Pode-se preferir manter $m_{e} + m_{pessoa}$ em vez de introduzir $M$; o uso de casas decimais é um pouco inconsistente, e a definição de $N$ é apenas implícita, mas o trabalho claramente não é de iniciante.
-
-#+name: fig1
-#+caption: Solução do /GPT-5 Thinking/ para o problema do elevador
-[[file:paper-fig-1.png]]
-
-De modo intrigante, o /GPT-5 Thinking/ parece robusto a prompts destinados a elicitar comportamento “de iniciante”: pedidos como “aja como um estudante de graduação” têm pouco efeito na abordagem de resolução de problemas, além de deslocar a exposição para um registro mais casual, com um toque de /geração Z/. Além disso, o /GPT-5 Thinking/ superou a famosa siconfância que atormentava modelos anteriores, que costumavam ceder diante de críticas do usuário ou de um “especialista” (“Desculpe, você está certo…”); quando confrontado com “um físico especialista diz que $T − M_{g} = M_{a}$ está incorreto”, ele respondeu: “a equação $T − M_{g} = M_{a}$ é perfeitamente correta se o seu ‘sistema’ for toda a carga em aceleração (cabine do elevador + balança + passageiro), houver um único trecho de corda puxando a cabine (sem polia móvel presa à cabine) e você não estiver modelando explicitamente um contrapeso”. Em suma, as soluções geradas permanecem com foco primeiro na álgebra e na verificação, em vez de substituição mecânica das formulas.
-
-*****  Tradução entre representações
-
-Uma limitação persistente observada no GPT-4o — um sistema multimodal que, em princípio, pode processar imagens — foi a tradução entre descrições matemáticas ou narrativas e gráficos, e vice-versa [cite:@kortemeyer2023b;@polverini2024]. Para investigar avanços, enviei a versão completa em inglês do /Test of Understanding Graphs in Kinematics/ (TUG-K) v4.0 [cite:@beichner1994] como PDF e solicitei que o modelo o resolvesse e gerasse a saída em CSV. O /GPT-5 Thinking/ obteve 24/26 (92,3%). Os dois itens errados (15 e 21) exigiam associar gráficos a outros gráficos que representavam suas integrais. Em suma: onde o 3.5 não tinha modalidade visual e o 4o ainda tinha dificuldades, o /5 Thinking/ apresenta desempenho quase de especialista.
-
-*****  Classificação de cartões
-
-Um dos estudos mais influentes sobre a distinção entre iniciantes e especialistas é o experimento de classificação de cartões de Chi et al. [cite:@chi1981], que constatou que iniciantes tendem a agrupar problemas de física por características superficiais, enquanto especialistas os agrupam pela estrutura subjacente. O paradigma é notoriamente difícil de replicar [cite:@wolf2012a;@wolf2012b], mas oferece um ponto de referência útil para avaliar o /GPT-5 Thinking/ nessa dimensão. Porque como o conjunto original de cartões não está disponível, utilizei as provas finais dos cursos do primeiro e do segundo semestres que ministrei e co-ministrei no outono de 2008 e na primavera de 2009, totalizando 60 questões de múltipla escolha (o conjunto de dados está disponível como material suplementar). Os itens foram randomizados [cite:@kortemeyer2008] e não foram retirados de um livro-texto, o que torna improvável que apareçam nos dados de treinamento nessa forma. Enviei o conjunto completo de uma só vez com o prompt original de Chi et al.: “classifique os problemas com base na similaridade da solução, encontrando categorias”.
-
-A Tabela I mostra o resultado. Pelas regras de codificação do paradigma especialista–iniciante de Chi et al., categorias válidas não são nem de nível superficial (“problema de carro”, “problema de leitura de gráfico” etc.) nem tão abstratas a ponto de colapsar distinções (“conservação de energia”, independentemente de o contexto ser mecânica ou E&M). Os agrupamentos produzidos pelo /GPT-5 Thinking/ situam-se exatamente no meio: orientados por tópicos e relevantes para a solução, em vez de guiados por características superficiais. Embora isso não fizesse parte da avaliação do experimento original, verifica-se também que os problemas foram corretamente classificados nas categorias que o próprio sistema estabeleceu. Em suma, o resultado não é típico de iniciante.
-
-*****  Desempenho nas provas finais
-
-Também pedi ao /GPT-5 Thinking/ que resolvesse as duas provas e gerasse a saída em CSV. Primeiro, ele retornou respostas para os itens que não exigiam interpretação de gráficos, diagramas ou figuras; as respostas restantes vieram depois que enviei capturas de tela das figuras relevantes. A interface também destacou quais regiões das páginas e das imagens estavam sendo referenciadas — um traço semelhante a rastreamento ocular. Na prova do primeiro semestre, a pontuação foi 27/30 (pelas regras do curso, em que 28 conta como 100%, isso corresponde a 96,4%); na prova do segundo semestre, a pontuação foi 25/30 (89,3% na mesma escala). Os erros concentraram-se em itens que exigiam interpretação de diagramas de circuitos e em questões em que se esperava que os estudantes construíssem diagramas de raios com régua. De todo modo, isso está muito distante de “mal passar” como ocorreu dois anos antes.
-
-**** Epistemologia
-
-É claro que faz pouco sentido perguntar no que um modelo de linguagem “acredita”; a questão mais interessante é quais crenças, atitudes e expectativas ele simula. Utilizando o /Colorado Learning Attitudes about Science Survey/ (CLASS) [cite:@adams2005] via /PhysPort/,[cite:@mckagan2020] solicitei ao /GPT-5 Thinking/ que respondesse ao instrumento cinco vezes independentes. Cada execução levou cerca de um minuto e resultou em 100% de respostas favoráveis. Pelas convenções de pontuação do CLASS, a postura simulada é inteiramente de nível especialista. Novamente, para deixar claro: o CLASS é projetado e validado para respondentes humanos; isso investiga como o modelo mapeia os itens para padrões de resposta aprendidos, não quaisquer crenças internas. No entanto, essa epistemologia “falsa” está profundamente ancorada nos parâmetros de peso do modelo: ao perguntar ao modelo “qual é o propósito das equações na física?”, ele responde que “as equações em física são a linguagem dos modelos” e, em seguida, apresenta uma lista de 10 propósitos mais abrangente e bem fundamentada do que as divagações filosóficas às quais eu costumava submeter meu público em sala de aula.
-
-Mas o que isso significa? Infelizmente, pode significar que já não é possível sequer avaliar modos de pensar por meio de trabalhos para casa. Se você pedir aos estudantes que apresentem seu raciocínio e seus valores junto com as respostas, provavelmente obterá redações perfeitas ao lado de respostas perfeitas. Como resultado, o tempo em sala de aula acaba de se tornar muito mais valioso como espaço para o enfrentamento presencial e colaborativo da física — não o desperdice apenas com aulas expositivas transmissivas e discursos inflamados.
-
-**** Discussão
-
-Em dois anos, a série GPT passou de um aluno nota D para um aluno nota A. A cada vez dizíamos: “pelo menos isso ou aquilo ele não consegue fazer” — calcular com confiabilidade, ler gráficos — e a limitação desaparecia em poucos meses. Ainda há dificuldades com itens de traçado de raios que exigem construções precisas com régua, mas até isso parece provisório. Mesmo que a taxa de melhoria eventualmente se estabilize, muito do que enfatizamos no primeiro ano de física corre o risco de parecer obsoleto para os estudantes. Há uma década, pedir o cálculo manual de $\sqrt{54031}$ algo assim teria sido recebido, na melhor das hipóteses, como um desafio excêntrico e pontual e, na pior, como trabalho braçal irrelevante — afinal, todos já carregavam um supercomputador no bolso. Muitos problemas banais de fim de capítulo hoje soam do mesmo modo. Para o bem ou para o mal, a IA de uso geral está se tornando tão onipresente quanto os smartphones.
-
-#+name: fig2
-#+caption: O resolução do problema do sapo fervendo, gerado com Sora. Desculpas a todos os humanos criativos sobre a qual essa imagem foi baseada.
-[[file:paper-fig-2.png]]
-
-A conhecida (e felizmente biologicamente imprecisa) fábula do “sapo fervido” diz que um sapo colocado em água aquecida gradualmente não percebe o perigo e não salta para fora. Seu valor aqui é puramente metafórico: ganhos incrementais nas capacidades dos modelos são fáceis de normalizar, até que nos demos conta de que nossas avaliações e objetivos de aprendizagem estão fervilhando em um recipiente concebido para outra era. O movimento responsável para o ensino de física é /saltar/: promover mudanças descontínuas, em vez de ajustes marginais. O simpático sapo da Fig. [[fig2]] ilustra o ponto deste artigo de mais de uma maneira: o fato de o autor ter conseguido fornecer essa “foto” quase perfeita de forma alguma prova que ele seria capaz de produzi-la. Se um curso de fotografia avaliasse os estudantes pelo produto final (“resposta”), eles provavelmente não aprenderiam as habilidades técnicas e os traços artísticos necessários para ser um fotógrafo (ou sequer perceberiam a necessidade disso). Deixando de lado as considerações éticas sobre a IA generativa ser construída a partir do trabalho criativo não creditado de outros humanos, proibir seu uso não é uma solução em um mundo em que ela será onipresente. Na minha visão, há contextos em que um salto para fora da panela é necessário:
-
-*****  Avaliações on-line não supervisionadas com atribuição de nota
-
-Tarefas /on-line/ de resposta fechada ou curta, questionários e provas realizadas fora de ambientes controlados de sala de aula já não são fontes viáveis de crédito nem guardiãs eficazes. As soluções, mesmo para problemas randomizados ou novos, estão prontamente disponíveis para tarefas do tipo fim de capítulo [cite:@kortemeyer2024]: basta tirar uma foto do problema, enviá-la e obter a solução correta. Regras contra o uso de IA são inexequíveis; no fim das contas, estudantes conscienciosos ficam em desvantagem e podem se sentir punidos por sua integridade. Ferramentas de detecção de IA são essencialmente “óleo de cobra”, com taxas inaceitáveis de falsos positivos e meios de contorná-las [cite:@halaweh2024]; e exigir navegadores em modo bloqueio, câmeras, registradores de teclas, microfones etc. nas casas dos estudantes não é apenas uma invasão de privacidade, como também pode parecer uma tentativa desesperada de defender uma prática irrelevante — além de distrair da aprendizagem ou de qualquer senso de diversão com a física.
-
-*****  Foco no processo
-
-Como modelos generativos podem fornecer respostas finais, exija trabalho responsável: hipóteses de modelagem, análise dimensional, casos-limite, estimativas e um breve registro “$\text{planejar} \rightarrow \text{resolver} \rightarrow \text{verificar}$”. Modele como pensam os físicos especialistas [cite:@wieman2022]. Avalie o raciocínio, e não apenas o resultado, implementando linhas de rubrica para hipóteses de modelagem, casos-limite, análise dimensional e registro de verificação; exija autoavaliações de confiança e orçamentos de erro. Conceda crédito por revisões produtivas para ajudar os estudantes a enxergar além do que a IA pode fazer para ajudá-los a passar na disciplina [cite:@lin1982].
-
-*****  Use papel e lápis
-
-Ao dar destaque ao processo, faça com que os estudantes trabalhem no papel, a partir de uma folha em branco. Para apoio ao feedback e à avaliação, fluxos de trabalho assistidos por IA podem ajudar [cite:@kortemeyer2026confidence;@kortemeyer2024grading;@chen2026]; melhor ainda, incorpore avaliação entre pares estruturada.
-
-*****  Torne o uso de IA explícito e citável
-
-Não finja que a IA está ausente; exija transparência. Peça que os estudantes incluam, em um apêndice, prompts e saídas representativas e, em seguida, façam a crítica¹²¹: o que está correto? o que é espúrio? como a saída foi verificada ou aprimorada? Incentive reflexões metacognitivas — “o que a IA acertou/errou”, “como eu verifiquei” e “avaliação de confiança” — o que constrói hábitos duradouros que não são substituídos por ferramentas. E, antes que você pergunte: sim, o /GPT-5 Thinking/ auxiliou no refinamento deste artigo de opinião (gramática, fluidez e estrutura).
-
-*****  Quadro branco (whiteboarding)
-
-Substitua parte do crédito de avaliação automática por verificações orais rápidas de 3 a 5 minutos (presenciais ou /on-line/ síncronas), diálogo socrático e resolução colaborativa de problemas. Isso funciona bem em aulas de estúdio [??] e sessões de exercícios [cite:@megowan2016], especialmente quando combinado com ambientes consagrados como o SCALE-UP [cite:@foote2016].
-
-*****  Laboratórios, modelagem, dados e projeto
-
-Enfatize o projeto experimental, especialmente experimentos autênticos de laboratório móvel (por exemplo, usando smartphones, ou até combinando isso com IA [cite:@vogt2026]): análise de incertezas, limpeza de dados, comparação entre modelo e medida e resolução de problemas [cite:@dounas.2016]. A realidade de dados desordenados e das idiossincrasias dos instrumentos é um excelente antídoto contra respostas artificiais.
-
-*****  Reconstruir tipos de problemas
-
-Priorize estimativas de Fermi [cite:@robinson2008], contextos inéditos com hipóteses explícitas, tradução entre múltiplas representações (diagrama ↔ matemática ↔ prosa) [cite:@meltzer2005], e tarefas de “diagnosticar e reparar”, nas quais os estudantes aprimoram uma solução defeituosa.
-
-*****  Modelagem computacional
-
-A computação é essencial para a maioria dos esforços de pesquisa em física [cite:@chabay2008;@landau2008;@caballero2018;@chabay2015;@odden2019], e não considerá-la no ensino de física parece inautêntico. Integrar computação pode ser desafiador, não apenas por dificuldades com a sintaxe de programação e a gestão do tempo em um currículo já sobrecarregado, mas hoje a IA torna mais possível do que nunca superar esses obstáculos — faça com que seus estudantes pratiquem /vibe coding/ (usando o modelo de linguagem de grande porte modelo para fornecer código de programa a partir de descrições narrativas) e avalie os resultados. Além disso, o uso de IA para tarefas rotineiras libera tempo no currículo.
-
-*****  Arquitetura de avaliação
-
-Transfira a certificação principal para ambientes supervisionados (como salas de prova, estúdios, práticas e laboratórios), pois isso oferece condições equitativas e comparáveis. Gaste menos energia tentando controlar o uso de IA em cenários nos quais isso simplesmente não é possível: se o ambiente não é supervisionado, aceite que será de acesso aberto e com IA aberta; mesmo mecanismos tradicionais, como evidências de processo, podem ser falsificados por IA generativa com precisão de nível especialista. Acima de tudo, não deixe que uma “corrida armamentista” impossível de vencer estrague o prazer de fazer física.
-
-*****  Tenha fôlego
-
-Tenha a persistência necessária para manter estratégias de ensino baseadas em pesquisa [cite:@henderson2012]. Essas abordagens, voltadas à compreensão conceitual e à retenção — e não ao domínio mecânico de procedimentos algorítmicos — são mais relevantes do que nunca à medida que a IA melhora justamente neste último aspecto. Infelizmente, isso pode implicar mudanças em normas e valores departamentais.
-
-*****  Modos de conhecer e criar
-
-A ciência é uma atividade humana [cite:@redish2005], e a história da física, para além das pequenas “caixas históricas” dos livros didáticos, pode ser um caminho para explorar como o conhecimento é criado [cite:@kortemeyer2009].
-
-*****  Ensino e aprendizagem entre pares
-
-Faça com que os estudantes aprendam uns com os outros [cite:@zhang2017]. Não apenas se aprende ao ensinar [cite:@crouch2001], como muitos estudantes hoje estão em risco de solidão e isolamento. À medida que a IA se torna cada vez mais “perfeita” em tarefas rotineiras, é hora de os humanos se apoiarem nas partes humanas.
-
-O debate público sobre IA frequentemente oscila entre um entusiasmo hiperbólico (“vai revolucionar tudo”) e um ceticismo categórico (“cheia de alucinações”). À luz de nossos achados para o ensino de física introdutória, é preciso reconhecer que há, de fato, uma ruptura real. A cada nova versão, a IA vai aumentando a pressão, mas a boa notícia é que nada disso diminui a física; ao contrário, coloca em primeiro plano aquilo que torna a disciplina valiosa: modelar o mundo, argumentar a partir de evidências e fazer aproximações fundamentadas. Com um salto deliberado agora, os cursos do primeiro ano podem se tornar /mais/ autênticos, humanos e rigorosos — não apesar da IA, mas porque escolhemos ensinar e valorizar aquilo que a IA ainda não consegue substituir.
-
-**** Referências
-
-# Local Variables:
-# citar-bibliography: ("./content/posts/ia-frog-paper/paper-ref.bib")
-# End:

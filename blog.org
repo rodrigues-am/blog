@@ -963,8 +963,8 @@ O debate público sobre IA frequentemente oscila entre um entusiasmo hiperbólic
 # citar-bibliography: ("./content/posts/ia-frog-paper/paper-ref.bib")
 # End:
 
-** 003w82026
-*** Peer Instruction: o estudante é um mini-professor?
+** 003w92026
+*** Peer Instruction: o estudante é um mini-professor? :peer_instruction:ensino_fisica:
 :PROPERTIES:
 :EXPORT_FILE_NAME: peer-instruction-argument
 :EXPORT_DATE: 2026-02-23

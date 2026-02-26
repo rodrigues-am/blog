@@ -3,6 +3,7 @@ title = "Peer Instruction: o estudante é um mini-professor?"
 author = ["André Rodrigues"]
 summary = "Discuto, de forma breve, uma explicação apresentada para o processo de aprendizagem e ensino na abordagem de discussão por pares. Trata-se de uma abordagem que ganhou popularidade na década de 1990 no ensino de Física; no entanto, suas bases precisam ser mais bem examinadas."
 date = 2026-02-23
+tags = ["peer-instruction", "ensino-fisica"]
 categories = ["boletim"]
 draft = false
 weight = 200

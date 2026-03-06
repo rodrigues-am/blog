@@ -2,7 +2,7 @@
 title = "Na França e no Brasil: quase todos sabem"
 author = ["André Rodrigues"]
 date = 2025-02-07
-categories = ["opinião", "política"]
+categories = ["opinião"]
 draft = false
 weight = 200
 comments = true

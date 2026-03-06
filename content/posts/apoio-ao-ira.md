@@ -3,13 +3,15 @@ title = "Por que apoiar o Irã?"
 author = ["André Rodrigues"]
 summary = "Organizei em alguns poucos parágrafos os argumentos que considero ser importante para compreender a posição sobre o apoio ao Irã nos conflitos recentes."
 date = 2025-06-22
-categories = ["opinião", "política"]
+tags = ["ira"]
+categories = ["opinião"]
 draft = false
 weight = 200
 comments = true
+[cover]
+  image = "/img/ali-khamenei-2025.webp"
+  caption = "Ali Khamenei, Líder Supremo do Irã"
 +++
-
-{{< figure src="/img/ali-khamenei-2025.webp" caption="<span class=\"figure-number\">Figure 1: </span>Ali Khamenei, Líder Supremo do Irã." >}}
 
 Na madrugada do dia 13 de junho, Israel lançou um ataque contra o Irã, em meio às negociações entre Teerã e Washington sobre o programa nuclear iraniano. Poucos dias depois, em 21 de junho, os Estados Unidos também atacaram centros de processamento nuclear no Irã — os mesmos alvos atingidos inicialmente por Israel.
 

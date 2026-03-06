@@ -2,7 +2,7 @@
 title = "A proibição dos celulares nas escolas é uma questão política e não pedagógica"
 author = ["André Rodrigues"]
 date = 2025-03-25
-categories = ["opinião", "política"]
+categories = ["opinião"]
 draft = false
 weight = 200
 comments = true
@@ -12,7 +12,7 @@ Começamos 2025 com uma novidade: a proibição dos celulares no ambiente escola
 
 Em 12 de novembro de 2024, [os parlamentares da Assembleia Legislativa do Estado de São Paulo (Alesp)](https://www.al.sp.gov.br/noticia/?12/11/2024/parlamentares-da-alesp-aprovam-por-unanimidade-proibicao-do-uso-de-celulares-em-sala-de-aula-) aprovaram por unanimidade a [Lei 18.058/2024](https://www.al.sp.gov.br/spl/2024/12/Acessorio/1000595692_1000737950_Acessorio.pdf), que proíbe a utilização de celulares e outros dispositivos eletrônicos nas escolas públicas e privadas do estado de São Paulo. Essa lei é uma ampliação da proibição já existente, que veda o uso de telefones celulares durante o horário das aulas desde 2007 (ver a [Lei 12.730/2007](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/lei-16567-06.11.2017.html)).
 
-Em 13 de janeiro de 2025, entrou em vigor a Lei Federal 15.100/2025, que proíbe "a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais, inclusive telefones celulares, nos estabelecimentos públicos e privados de ensino da educação básica". A proibição em todo o território nacional abrange o uso "durante a aula, o recreio ou intervalos entre as aulas".
+Em 13 de janeiro de 2025, entrou em vigor a [Lei Federal 15.100/2025](https://www.in.gov.br/en/web/dou/-/lei-n-15.100-de-13-de-janeiro-de-2025-606772935), que proíbe "a utilização, por estudantes, de aparelhos eletrônicos portáteis pessoais, inclusive telefones celulares, nos estabelecimentos públicos e privados de ensino da educação básica". A proibição em todo o território nacional abrange o uso "durante a aula, o recreio ou intervalos entre as aulas".
 
 No fim de seu Art. 1º, a lei federal apresenta ainda uma justificativa: "com o objetivo de salvaguardar a saúde mental, física e psíquica das crianças e adolescentes." A saúde mental é apresentada como principal pretexto. Na matéria veiculada pelo Ministério da Educação (MEC), já aparece uma ampliação da justificativa, incluindo efeitos sobre aprendizagem e concentração.
 

@@ -2,7 +2,7 @@
 title = "The notion of tird-person effect to examine the current issues on social media: some remarks 2021-09-01 qua"
 author = ["André Rodrigues"]
 summary = "xxx"
-categories = ["opinião", "política"]
+categories = ["opinião"]
 draft = true
 weight = 200
 comments = true

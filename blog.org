@@ -671,7 +671,7 @@ Diante da história, dos fatos e das consequências da dominação imperialista,
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_DATE: 2026-03-05
-:EXPORT_HUGO_BUNDLE: iran-meninas-escola
+:EXPORT_HUGO_BUNDLE: ira-mulheres
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "iran-woman-2026.webp") (caption . "Pessoas em luto seguram o retrato de um estudante durante uma cerimônia fúnebre para crianças mortas após uma escola primária ser alvo de ataques dos Estados Unidos e de Israel em 3 de março de 2026, em Minab, no Irã | Stringer Anadolu"))
 :END:

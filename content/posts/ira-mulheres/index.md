@@ -13,7 +13,7 @@ comments = true
   caption = "Pessoas em luto seguram o retrato de um estudante durante uma cerimônia fúnebre para crianças mortas após uma escola primária ser alvo de ataques dos Estados Unidos e de Israel em 3 de março de 2026, em Minab, no Irã | Stringer Anadolu"
 +++
 
-No dia 28 de fevereiro, durante as rodadas de negociação que aconteciam em Genebra, os Estados Unidos e Israel atacaram a República Islâmica do Irã. A agressão criminosa teve início com bombardeios em áreas civis em diversas partes do Irã, incluindo a capital Teerã. Os bombardeios norte-americanos a Minab atingiram uma escola primária feminina, deixando mais de 170 mortos — dados de 6 de março —, em sua grande maioria meninas estudantes da escola e professoras do ensino primário.
+No dia 28 de fevereiro, durante as rodadas de negociação que aconteciam em Geneva, os Estados Unidos e Israel atacaram a República Islâmica do Irã. A agressão criminosa teve início com bombardeios em áreas civis em diversas partes do Irã, incluindo a capital Teerã. Os bombardeios norte-americanos a Minab atingiram uma escola primária feminina, deixando mais de 170 mortos — dados de 6 de março —, em sua grande maioria meninas estudantes da escola e professoras do ensino primário.
 
 {{< figure src="grave-iran-2026.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Escavadeiras e trabalhadores abriram cerca de 100 sepulturas em um cemitério em Minab, no Irã, antes do funeral de crianças e professores mortos em um ataque aéreo dos Estados Unidos contra uma escola em 28 de fevereiro de 2026 | Departamento de Mídia Internacional do Irã" width="100%" >}}
 

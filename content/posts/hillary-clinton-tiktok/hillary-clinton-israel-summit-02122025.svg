@@ -70,23 +70,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:213.333px;line-height:0.75;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';fill:#000080;fill-opacity:1"
          id="tspan3" /></text>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.69885"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.58334"
        id="rect5"
-       width="756.56982"
+       width="719.8299"
        height="175.53508"
        x="93.21048"
        y="490.83344" />
     <text
        xml:space="preserve"
        style="font-size:133.333px;line-height:1.25;font-family:'FiraCode NF';-inkscape-font-specification:'FiraCode NF';text-align:center;word-spacing:0px;text-anchor:middle;fill:#000080"
-       x="462.32779"
+       x="445.49838"
        y="626.90814"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan7"
-         x="492.34073"
+         x="461.12332"
          y="626.90814"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'">controlar a </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:Anton;-inkscape-font-specification:Anton">controlar a </tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:3.99049"
        id="rect6"
@@ -98,30 +98,30 @@
        xml:space="preserve"
        style="font-size:133.333px;line-height:1.25;font-family:'FiraCode NF';-inkscape-font-specification:'FiraCode NF';text-align:center;word-spacing:0px;text-anchor:middle;fill:#000080"
        x="361.0585"
-       y="778.68707"
+       y="764.68707"
        id="text8"><tspan
          sodipodi:role="line"
          id="tspan8"
          x="361.0585"
-         y="778.68707"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL'">internet</tspan></text>
+         y="764.68707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:Anton;-inkscape-font-specification:Anton">internet</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.32937"
        id="rect4"
        width="642.26794"
        height="175.53508"
        x="93.21048"
-       y="350.24097" />
+       y="323.02621" />
     <text
        xml:space="preserve"
        style="font-size:133.333px;line-height:1.25;font-family:'FiraCode NF';-inkscape-font-specification:'FiraCode NF';text-align:center;word-spacing:0px;text-anchor:middle"
-       x="401.29279"
-       y="472.35086"
+       x="401.09747"
+       y="492.35086"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         x="431.30573"
-         y="472.35086"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#000080">é preciso </tspan></text>
+         x="416.72244"
+         y="492.35086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:Anton;-inkscape-font-specification:Anton;fill:#000080">é preciso </tspan></text>
   </g>
 </svg>

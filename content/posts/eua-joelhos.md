@@ -32,7 +32,7 @@ Se a guerra parar agora, o movimento trumpista, com seu _slogan_ “A América e
 
 O Trump que, na eleição, venceu o Colégio Eleitoral, a maioria dos votos, o Senado e a Câmara&nbsp;[^fn:2], vê, com essa guerra, uma rápida corrosão de qualquer movimento popular&nbsp;[^fn:3].
 
-Seis semanas que colocaram os governos norte-americano e israelense em um beco sem saída, mas fizeram com que os demais países imperialistas repensassem suas posições e recuassem imediatamente da encalacrada. Seria um exagero afirmar que essa é uma vitória definitiva e que a ditadura a que o imperialismo submete o mundo está em colapso; contudo, dada a disparidade de armas e o tamanho da tarefa a ser alcançada, creio que seja importante comemorar cada vitória, e, neste pequeno capítulo da história, a vitória não está nas mãos do imperialismo.
+Em seis semanas os iranianos colocaram os governos norte-americano e israelense em um beco sem saída, fizeram com que os demais países imperialistas repensassem suas posições e recuassem frente a encalacrada. Seria um exagero afirmar que essa é uma vitória definitiva e que a ditadura a que o imperialismo submete o mundo está em colapso; contudo, dada a disparidade de armas e o tamanho da tarefa a ser alcançada, creio que seja importante comemorar cada vitória, e, neste pequeno capítulo da história, a vitória não está nas mãos do imperialismo.
 
 A República Islâmica do Irã deixa uma lição importante para todos os povos oprimidos do mundo.
 

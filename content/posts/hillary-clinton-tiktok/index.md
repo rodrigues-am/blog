@@ -1,5 +1,5 @@
 +++
-title = "Para os céticos, Hillary Clinton explica de maneira bem simples e direta."
+title = "Para os céticos, Hillary Clinton explica de maneira bem simples e direta"
 author = ["André Rodrigues"]
 summary = """
   Um elemento que  ajuda na discussão sobre as recentes tentativas de controle da internet e da juventude. Em discurso no Israel Hayom Summit em Nova York, Hillary Clinton afirmou que jovens estão sendo "desinformados" pelo TikTok. A ex-secretária de Estado argumentou que a guerra em Gaza é a primeira em que as redes sociais desempenham um papel tão dominante como fonte de notícias, dificultando conversas racionais entre gerações.

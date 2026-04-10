@@ -1,0 +1,25 @@
+#+LATEX_COMPILER: lualatex
+#+OPTIONS: toc:nil num:nil title:nil ^:nil author:nil date:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_HEADER: \usepackage{pgfornament}
+#+LATEX_HEADER: \usepackage{fontawesome5}
+#+LATEX_HEADER: \usepackage[a4paper,margin=1.5cm]{geometry}
+
+#+LATEX_HEADER: \usepackage[brazil]{babel}
+#+LATEX_HEADER: \babelprovide[main,import]{brazil}
+
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{multicol}
+#+LATEX_HEADER: \setlength{\columnsep}{0.7cm}
+#+LATEX_HEADER: \setlength{\parindent}{1em}
+#+LATEX_HEADER: \setlength{\parskip}{1.2em}
+
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \defaultfontfeatures{Ligatures=Te}
+#+LATEX_HEADER: \setmainfont{EB Garamond}[Renderer=Harfbuzz]
+
+#+LATEX_HEADER: \setlength{\columnsep}{0.7cm}
+#+LATEX_HEADER: \setlength{\parindent}{1em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+

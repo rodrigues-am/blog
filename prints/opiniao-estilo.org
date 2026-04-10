@@ -1,0 +1,31 @@
+#+LATEX_COMPILER: lualatex
+#+OPTIONS: toc:nil num:nil title:nil ^:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt,twocolumn]
+#+LATEX_HEADER: \usepackage{pgfornament}
+#+LATEX_HEADER: \usepackage{fontawesome5}
+#+LATEX_HEADER: \usepackage[a4paper,margin=1.5cm]{geometry}
+
+# #+LATEX_HEADER: \usepackage{fontspec}
+# #+LATEX_HEADER: \setmainfont{EB Garamond}
+
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \defaultfontfeatures{Ligatures=TeX}
+#+LATEX_HEADER: \setmainfont{EB Garamond}[Renderer=Harfbuzz]
+
+#+LATEX_HEADER: \setlength{\columnsep}{0.7cm}
+#+LATEX_HEADER: \setlength{\parindent}{1em}
+#+LATEX_HEADER: \setlength{\parskip}{1em}
+
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \renewcommand{\maketitle}{
+#+LATEX_HEADER: \noindent{\centering\Huge\bfseries \@title\par}
+#+LATEX_HEADER: \vspace{0.4em}
+#+LATEX_HEADER: {\normalsize \@author\quad|\quad\@date\par}
+#+LATEX_HEADER: \vspace{0.4em}
+#+LATEX_HEADER: \hrule
+#+LATEX_HEADER: \vspace{1.7em}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \makeatother
+
+#+LATEX_HEADER: \AtBeginDocument{\maketitle}

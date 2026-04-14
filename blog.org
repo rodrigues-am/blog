@@ -773,8 +773,6 @@ Isso é um problema sério. É um problema sério para a democracia, seja em Isr
 
  @@hugo:{{< youtube oqdQx8F-jec >}}@@
 
-
-
 ** A maior força militar que a humanidade já viu foi colocada de joelhos
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
@@ -783,6 +781,7 @@ Isso é um problema sério. É um problema sério para a democracia, seja em Isr
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "eua-joelho.png"))
 :END:
+
 Hoje, 7 de abril de 2026, a República Islâmica do Irã força o governo norte-americano a um cessar-fogo de duas semanas e a considerar os 10 pontos apresentados para acordo [fn:1].
 
 A máquina de matar norte-americana parecia impossível de parar. Com um gasto militar anual de US$ 919,2 bilhões, correspondendo a aproximadamente 37% dos gastos militares globais, é o maior gasto militar do mundo, chegando a superar a soma dos gastos dos demais nove países do ranking. Não se trata apenas de uma força militar muito maior do que a dos demais países de hoje em dia; é a maior força militar que a humanidade já viu.
@@ -818,6 +817,55 @@ Uma lição importante, como a da frase clássica do filme O Predador (1987), di
 
 #+attr_html: :width 38%
 [[/img/predador.jpg]]
+
+** Tabata Amaral que silêncio sobre os crimes do sionismo :liberdade_expressao:
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: tabata-quer-silencio
+:EXPORT_DATE: 2026-04-14T14:38:05-0300
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "tabata-amaral.jpg"))
+:END:
+
+Em 30 de março de 2026, o Parlamento de Israel (Knesset) aprovou uma lei que introduz a *pena de morte por enforcamento* para palestinos condenados por ataques letais classificados como “atos de terrorismo”. A lei [[https://causaoperaria.org.br/2026/pena-de-morte-contra-palestinos-e-tao-grotesca-que-imperialismo-precisa-criticar/][provocou repúdio]] até mesmo entre setores que historicamente defendem o sionismo, incluindo governos imperialistas.
+
+Sem qualquer pudor, no mesmo dia a deputada federal Tabata Amaral (PSB-SP) apresentou uma proposta que pretendeu silenciar críticos do Estado de Israel.
+
+Ela protocolou o [[https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3105410&filename=PL%201424/2026][Projeto de Lei 1424/2026]], que equipara críticas ao Estado de Israel ao antissemitismo — e, por consequência, ao crime de racismo.
+
+Na prática, ao adotar a definição de antissemitismo proposta pela /Aliança Internacional para a Memória do Holocausto/, uma entidade identificada por sua atuação de lobby em diferentes países, a proposta criminaliza críticas políticas ao Estado de Israel. O projeto prevê pena de reclusão de 2 a 5 anos, multa, impossibilidade de fiança e ausência de prescrição.
+
+Após uma repercussão intensa nas redes sociais, [[https://www.camara.leg.br/proposicoesWeb/prop_requerimentos?idProposicao=2612333][nove deputados sionistas]] solicitaram a retirada de seus nomes do projeto.
+
+*** O Projeto de Lei
+
+No texto apresentado, a parlamentar recorre a um subterfúgio conhecido: utiliza uma definição política de antissemitismo para enquadrar, na prática, a crítica ao Estado de Israel como antissemitismo. Além disso, o projeto equipara explicitamente essa definição ao crime de racismo.
+
+Em seu artigo Art. 1º, lê-se:
+
+#+begin_quote
+§ 2º Manifestações de antissemitismo podem ter como alvo o Estado de Israel, encarado como uma coletividade judaica.
+#+end_quote
+E posteriormente,
+#+begin_quote
+Art. 4º. O antissemitismo é uma forma de racismo, nos termos da Lei nº 7.716/1989 (Lei do Racismo), com todos os seus efeitos.
+#+end_quote
+
+*** Um ataque à liberdade de expressão e à esquerda
+
+Na justificativa, a autora classifica a proposta como uma política educacional. Também aponta para a “grande coalizão” formada no Congresso em torno do texto, incluindo parlamentares do PT e da Rede. Por fim, não deixa de revelar o sentido real da medida: trata-se de um combate à esquerda.
+
+À medida que a crise se aprofunda e a situação no oeste da Ásia evidencia a impotência do imperialismo norte-americano, o Estado de Israel intensifica seus crimes. É nesse contexto que se pretende impor uma censura ainda maior, buscando interditar qualquer crítica pública.
+
+O ponto decisivo é o seguinte: cometer o crime pode ser tratado como aceitável; contudo denunciar o crime passa a significar enfrentar até cinco anos de prisão, sem possibilidade de fiança e sem prescrição.
+
+Não há como negar o caráter “educativo” da proposta — ela “educa” a população sobre a serviço de quais interesses certos parlamentares trabalham.
+
+É um momento muito precioso, em que @@html:<mark> os “lobos em pele de cordeiro” voltam a mostrar os dentes.</mark>@@
+
+🔻
+#+attr_html: :width 50%
+[[file:lobo.webp]]
 
 * NO New ideas :noexeport:
 ** TODO A falsa contradição entre direito individual e coletivo no caso a restrição da liberdade de expressão

@@ -1,5 +1,5 @@
 +++
-title = "Tabata Amaral que silêncio sobre os crimes do sionismo"
+title = "Tabata Amaral quer silêncio sobre os crimes do sionismo"
 author = ["André Machado Rodrigues"]
 date = 2026-04-14T00:00:00-03:00
 tags = ["liberdade-expressao"]

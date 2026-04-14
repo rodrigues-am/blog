@@ -818,7 +818,7 @@ Uma lição importante, como a da frase clássica do filme O Predador (1987), di
 #+attr_html: :width 38%
 [[/img/predador.jpg]]
 
-** Tabata Amaral que silêncio sobre os crimes do sionismo :liberdade_expressao:
+** Tabata Amaral quer silêncio sobre os crimes do sionismo :liberdade_expressao:
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: tabata-quer-silencio

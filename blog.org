@@ -23,14 +23,14 @@
 :END:
 
 #+begin_description
-About me!
+Sobre André Machado Rodrigues — professor no Instituto de Física da USP (IFUSP).
 #+end_description
 
 [[/img/social-circ.png]]
 
-Hi!  My name is André Roodrigues.
+Olá! Meu nome é André Machado Rodrigues.
 
-I am an assistant professor at the Institute of Physics -- the University of São Paulo in Brazil. In the last decade, I have researched scientific concept formation, STEM education, educational data analysis with R, and cultural-historical psychology. This blog attempts to keep a consistent register of the journey as a researcher in the science education field.
+Sou professor assistente no Instituto de Física da Universidade de São Paulo (IFUSP). Na última década, tenho pesquisado a formação de conceitos científicos, educação em ciências (STEM), análise de dados educacionais com R e psicologia histórico-cultural. Este blog tenta manter um registro consistente da jornada como pesquisador na área de educação em ciências.
 
 * Twitter and ML :@twitter:@machine_learning:
 ** The initial challenge: understand how Twitter works. :Twitter:science_education:social_media:
@@ -954,6 +954,20 @@ Imagino que, daqui para frente, se intensificarão as campanhas de proteção da
 [fn:4] https://www.abola.pt/noticias/mundial-fifa-remove-quase-400-mil-publicacoes-abusivas-2026061813125508149
 
 [fn:5] https://www.gazetaesportiva.com/futebol/futebol-internacional/futebol-mundial-recorde-transferencias/
+
+* Boletim :@boletim:
+** Ponto de Apoio #001
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: ponto-de-apoio-001
+:EXPORT_DATE: 2026-07-22
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :comments true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/boletim-cover.png"))
+:END:
+
+*** Por que abrir um boletim? -- Motivação
+
+
 
 * NO New ideas :noexeport:
 ** TODO A falsa contradição entre direito individual e coletivo no caso a restrição da liberdade de expressão

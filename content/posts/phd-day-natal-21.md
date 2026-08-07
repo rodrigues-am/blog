@@ -1,6 +1,6 @@
 +++
 title = "The PhD Day in ISCAR 2021 Natal/Brazil"
-author = ["André Rodrigues"]
+author = ["andre"]
 summary = """
   The PhD Day activities held within the 6th Congress of the International Society
   for Cultural-Historical Activity Research represent how much the research

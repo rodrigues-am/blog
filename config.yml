@@ -19,14 +19,16 @@ minify:
 services:
   disqus:
     shortname: rodrigues-am
+languageCode: pt-BR
+defaultContentLanguage: pt-br
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: André Rodrigues
-  description: "My personal blog: a place for *Critical Thinking*, Social Media, STEM education, Climate Change, among other things."
-  keywords: [Blog, Academic]
-  author: André Rodrigues
+  description: "Blog pessoal de André Machado Rodrigues: pensamento crítico, redes sociais, educação em ciências, ensino de física, mudanças climáticas e mais. Professor no Instituto de Física da USP (IFUSP)."
+  keywords: [Blog, Educação em Ciências, Ensino de Física, IFUSP, USP, Pensamento Crítico, Redes Sociais, Andre Machado Rodrigues]
+  author: André Machado Rodrigues
   # author: ["Me", "You"] # multiple authors
-  images: ["./static/img/social-circ.png"]
+  images: ["/img/social-circ.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -54,7 +56,7 @@ params:
     favicon16x16: "/img/favicon/favicon-16x16.png"
     favicon32x32: "/img/favicon/favicon-32x32.png"
     apple_touch_icon: "/img/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "<link / abs url>"
+    safari_pinned_tab: "/img/favicon/apple-touch-icon.png"
 
   label:
     text: "Home"
@@ -65,19 +67,19 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: André Rodrigues
-    subtitle: "Thinking about life ..."
+    subtitle: "Professor no Instituto de Física da USP (IFUSP) — Pensando sobre a vida ..."
     imageUrl: "/img/social-circ.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my photo
+    imageTitle: André Machado Rodrigues
     buttons:
       - name: Posts
         url: posts
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there 😎 \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Olá! \U0001F44B"
+    Content: Bem-vindo ao meu blog
 
   social:
     - name: email
@@ -92,6 +94,29 @@ params:
       url: "https://www.linkedin.com/in/andr%C3%A9-rodrigues-69519590/"
     - name: orcid
       url: "https://orcid.org/0000-0001-7109-5295"
+
+  socialIcons:
+    - name: email
+      url: "mailto:rodrigues.am@usp.br"
+    - name: twitter
+      url: "https://twitter.com/andremrod"
+    - name: github
+      url: "https://github.com/rodrigues-am"
+    - name: googlescholar
+      url: "https://scholar.google.com.br/citations?user=B-c4uYYAAAAJ&hl=pt-BR"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/andr%C3%A9-rodrigues-69519590/"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-7109-5295"
+
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - "https://orcid.org/0000-0001-7109-5295"
+      - "https://scholar.google.com.br/citations?user=B-c4uYYAAAAJ&hl=pt-BR"
+      - "https://github.com/rodrigues-am"
+      - "https://www.linkedin.com/in/andr%C3%A9-rodrigues-69519590/"
+      - "https://twitter.com/andremrod"
 
   # analytics:
   #   google:

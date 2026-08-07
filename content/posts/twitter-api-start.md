@@ -1,6 +1,6 @@
 +++
 title = "First step towards social media analytics for Science Education Research."
-author = ["André Rodrigues"]
+author = ["andre"]
 summary = "I just delivered my application for Twitter API. A modest research project on the public understanding of science and conversations on scientific topics. Let's see if I get approved. It is a new field of research for me. Looks promising and exciting!"
 date = 2021-06-24
 tags = ["Twitter", "Science-Education", "Research"]

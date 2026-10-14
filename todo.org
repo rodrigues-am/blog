@@ -1,0 +1,107 @@
+#+title: SEO TODO — Blog rodrigues-am.xyz
+#+STARTUP: overview
+#+TODO: TODO NEXT DOING | DONE CANCELLED
+
+* FASE 1 — Identidade e Nome [5/5]
+:PROPERTIES:
+:CUSTOM_ID: fase-1
+:END:
+
+Essa fase resolve o problema central: o nome "André Machado Rodrigues" não
+aparece no blog, impedindo o Google de associar a entidade do blog às demais
+entidades acadêmicas (USP, ORCID, papers).
+
+** DONE Corrigir typo "Roodrigues" → "Rodrigues" em blog.org e about.md
+** DONE Adicionar nome completo "André Machado Rodrigues" em config.yml (author)
+** DONE Adicionar "André Machado Rodrigues" + "IFUSP" na página about (blog.org)
+** DONE Traduzir descrição do site para português (config.yml params.description)
+** DONE Atualizar keywords do site para termos relevantes em português
+
+* FASE 2 — Schema.org / Dados Estruturados [4/5]
+:PROPERTIES:
+:CUSTOM_ID: fase-2
+:END:
+
+O PaperMod já tem suporte a schema JSON-LD (Organization, BlogPosting,
+BreadcrumbList) mas a configuração estava incompleta. O =sameAs= estava vazio
+porque =site.Params.schema.sameAs= não estava definido e =SocialIcons= (em vez
+de =social=) não estava no formato esperado pelo template.
+
+** DONE Configurar schema.publisherType: "Person" no config.yml
+** DONE Adicionar schema.sameAs com ORCID, Google Scholar, GitHub, LinkedIn, Twitter, Lattes
+** DONE Corrigir images path: "./static/img/social-circ.png" → "/img/social-circ.png"
+** DONE Corrigir ou remover safari_pinned_tab (URL quebrado "<link / abs url>")
+** TODO Adicionar analytics.google.SiteVerificationTag (após verificação no Search Console)
+
+* FASE 3 — Configuração Técnica Hugo [2/3]
+:PROPERTIES:
+:CUSTOM_ID: fase-3
+:END:
+
+** DONE Corrigir html lang: definir "pt-BR" como idioma padrão do site
+** DONE Remover asteriscos markdown da meta description (tornar texto puro)
+** TODO Atualizar título do site para incluir nome completo (opcional)
+
+* FASE 4 — Google Search Console e Bing Webmaster [0/4]
+:PROPERTIES:
+:CUSTOM_ID: fase-4
+:END:
+
+** TODO Criar/verificar propriedade no Google Search Console
+** TODO Submeter sitemap.xml manualmente no Search Console
+** TODO Pedir indexação das páginas principais
+** TODO Repetir verificação para Bing Webmaster Tools
+
+* FASE 5 — SEO de Conteúdo [0/4]
+:PROPERTIES:
+:CUSTOM_ID: fase-5
+:END:
+
+** TODO Expandir página about com biografia completa e áreas de pesquisa
+** TODO Adicionar links para Lattes/CV no corpo do about
+** TODO Adicionar alt text descritivo em todas as imagens
+** TODO Adicionar links internos entre posts relacionados
+
+* FASE 6 — Sinais Externos [0/4]
+:PROPERTIES:
+:CUSTOM_ID: fase-6
+:END:
+
+** TODO Garantir que portal.if.usp.br/ecco use "André Machado Rodrigues"
+** TODO Adicionar link do blog no perfil Lattes
+** TODO Adicionar link do blog no perfil ORCID
+** TODO Adicionar link do blog no Google Scholar profile
+
+* NOTAS TÉCNICAS
+
+** Sincronia com ox-hugo
+O =blog.org= é a fonte canônica. Os arquivos =content/*.md= são gerados pelo
+ox-hugo. Alterações na estrutura do blog.org (about, archives) serão
+re-exportadas. As alterações de config.yml e layouts/ NÃO são afetadas pela
+exportação ox-hugo.
+
+Arquivos seguros de editar diretamente (não sobrescritos pelo ox-hugo):
+- =config.yml=
+- =layouts/partials/*=
+- =layouts/_default/*=
+- =static/*=
+- =netlify.toml=
+
+Arquivos gerados pelo ox-hugo (NÃO editar diretamente):
+- =content/posts/*=
+- =content/about.md=
+- =content/archives.md=
+
+** Instalação do ox-hugo no server
+Para testar a exportação, é necessário instalar o pacote =ox-hugo= no Emacs.
+O Emacs 30.2 já está disponível. O ox-hugo pode ser instalado via:
+- =package-install= (MELPA)
+- Ou adicionando ao config do Doom Emacs
+
+** Schema no PaperMod
+O template =schema_json.html= do PaperMod usa:
+- =site.Params.schema.publisherType= (default: "Organization")
+- =site.Params.schema.sameAs= (array de URLs)
+- Se =schema.sameAs= não definido, usa =SocialIcons= (não =social=)
+
+O BlogPosting schema é automaticamente gerado para páginas (= .IsPage =).

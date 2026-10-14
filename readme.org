@@ -1,0 +1,81 @@
+#+title: Blog rodrigues-am.xyz
+#+author: André Machado Rodrigues
+#+STARTUP: overview
+
+* Informações do projeto
+
+- **Domínio:** https://www.rodrigues-am.xyz/
+- **Plataforma:** Hugo (tema PaperMod)
+- **Deploy:** Netlify (automático ao pushar para =master=)
+- **Repo:** =git@github.com:rodrigues-am/blog.git=
+- **Branch:** =master=
+
+* Arquitetura
+
+O =blog.org= é a fonte canônica de todo o conteúdo. Os arquivos em
+=content/*.md= são gerados pelo ox-hugo a partir do =blog.org=.
+
+- Editar conteúdo → editar =blog.org= e re-exportar (ox-hugo)
+- Editar config/layout → editar diretamente =config.yml=, =layouts/=, =static/=
+
+* Estrutura da pasta
+
+| Arquivo/Pasta       | Descrição                                                    |
+|---------------------+--------------------------------------------------------------|
+| =blog.org=          | Fonte canônica do conteúdo (ox-hugo)                         |
+| =config.yml=        | Configuração do Hugo                                         |
+| =netlify.toml=      | Configuração de deploy no Netlify                            |
+| =todo.org=          | Tarefas de SEO e manutenção do blog                          |
+| =readme.org=        | Este arquivo — informações gerais e guia de navegação       |
+| =AGENTS.md=         | Instruções para AI agents (Claude Code, Codex, Hermes)       |
+| =.projectile=       | Marca o diretório como projeto no Emacs/projectile          |
+| =.dir-locals.el=    | Configurações locais do Emacs para o projeto                 |
+| =archetypes/=       | Templates para novos posts (Hugo)                            |
+| =content/=          | Saída do ox-hugo (GERADO — não editar diretamente)           |
+| =layouts/partials/= | Templates customizados do PaperMod                           |
+| =static/=           | Imagens, favicons, JS                                         |
+| =themes/PaperMod/=  | Tema ativo (submódulo git)                                   |
+| =public/=           | Build output (gitignored)                                    |
+
+* Regras críticas
+
+1. NUNCA editar diretamente arquivos em =content/posts/*.md=, =content/about.md=,
+   ou =content/archives.md=. São gerados pelo ox-hugo. Edite o =blog.org= e
+   re-exporte.
+
+2. Arquivos seguros de editar diretamente (não sobrescritos pelo ox-hugo):
+   - =config.yml=
+   - =layouts/partials/*=
+   - =layouts/_default/*=
+   - =static/*=
+   - =netlify.toml=
+
+3. Para re-exportar o conteúdo após editar =blog.org=:
+   #+begin_src bash
+   emacs --batch -l ox-hugo ~/notas/blog/blog.org \
+     --eval '(org-hugo-export-wim-to-md :all)' 2>&1
+   #+end_src
+
+4. Para testar o build do Hugo (Hugo não está no PATH do servidor):
+   #+begin_src bash
+   nix run nixpkgs#hugo -- serve -D    # dev server
+   nix run nixpkgs#hugo -- gc --minify  # build produção
+   #+end_src
+
+* Org-capture
+
+O Doom Emacs já tem um template de capture para blog:
+- Tecla: =C-c o c b= (org-capture → "b" = Blog Post)
+- Alvo: =~/notas/blog/blog.org= → heading "NO New ideas"
+- Template: =~/sync/pessoal/emacs/org-capture-templates/post.org=
+
+* ox-hugo no Emacs
+
+O ox-hugo já está configurado no Doom Emacs (módulo =+hugo= em =init.el=).
+Ao editar =blog.org= no Emacs, use =C-c C-e H h= para exportar um post
+ou =C-c C-e H A= para exportar todos.
+
+* SEO
+
+O =todo.org= contém o plano de SEO em 6 fases. Consulte-o antes de
+fazer alterações que possam afetar SEO (titles, schema, meta tags).

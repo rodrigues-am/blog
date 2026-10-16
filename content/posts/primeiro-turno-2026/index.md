@@ -3,12 +3,13 @@ title = "A vitória do bolsonarismo nas eleições"
 author = ["André Rodrigues"]
 summary = "Será que o bolsonarimo saiu vitorioso nas eleições de 2026? Uma breve análise do primeiro turno das eleições."
 date = 2026-10-13T00:00:00-03:00
+tags = ["eleições", "bolsonarismo"]
 categories = ["opinião"]
 draft = false
 weight = 200
 comments = true
 [cover]
-  image = "cover-onda-direita.jpe"
+  image = "cover-onda-direita.jpeg"
 +++
 
 Com o segundo turno presidencial em marcha, é necessário um balanço, ainda que resumido, do primeiro turno. Algumas pessoas, talvez tomadas pelo entusiasmo do "vira voto", colocaram em dúvida a vitória do bolsonarismo nesta eleição. A vitória eleitoral do bolsonarismo em 2026 me parece inequívoca em todas as frentes.

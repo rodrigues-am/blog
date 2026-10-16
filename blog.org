@@ -1002,7 +1002,7 @@ Contudo, não é possível tampar o sol com a peneira. Independentemente do que 
 A situação que precisa ser enfrentada é a política que nos trouxe até aqui. A explicação da vitória eleitoral tem pouco a ver com os predicados do bolsonarismo. Mas tem uma dose significativa dos erros da política conduzida pela esquerda nas últimas duas décadas e, em particular, nos últimos quatro anos. É essa política e seu esgotamento que precisam ser examinados com cuidado daqui para frente.
 
 
-** A santa política eleitoral e a decadência da esquerda
+** A santa política eleitoral e a decadência da esquerda :eleições:esquerda:
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: santa-politica-eleitoral
@@ -1024,7 +1024,7 @@ O crescimento das igrejas evangélicas era visto como a expansão de um celeiro 
 
 #+caption: Show de Madonna em Copacabana, no Rio de Janeiro, em 4 de maio de 2024.
 #+attr_html: :width 50%
-[[./content/posts/santa-politica-eleitoral/madona-1.jpg]]
+[[./madona-1.jpg]]
 
 *** Eleições de 2026
 
@@ -1034,7 +1034,7 @@ Em meio ao desespero eleitoral, a esquerda começou sua própria campanha com a 
 
 #+caption: Lula levanta a santa em Belém do Pará, em 28 de setembro de 2026.
 #+attr_html: :width 50%
-[[./content/posts/santa-politica-eleitoral/lula-santa.jpeg]]
+[[./lula-santa.jpeg]]
 
 Ao longo dos últimos anos, a esquerda criticou o bolsonarismo pela manipulação da fé para fins eleitorais, sobretudo pela proximidade de seus candidatos com as igrejas evangélicas. Em diversos momentos, a crítica ultrapassou a disputa política e se voltou contra as próprias pessoas religiosas.
 
@@ -1048,10 +1048,10 @@ Loucura pouca é besteira. No dia 12 de outubro de 2026, o PSTU também saiu em 
 
 No texto de Hertz Dias divulgado pelo Opinião Socialista, o argumento aparece assim:
 
-#+attr_html: :class meme-quote :style display: grid; grid-template-columns: 25% minmax(0, 1fr); column-gap: 1rem; align-items: center;
+#+attr_html: :class meme-quote :style display: grid; grid-template-columns: 15% minmax(0, 1fr); column-gap: 1rem; align-items: center;
 #+begin_div
 #+attr_html: :width 100%
-[[./content/posts/santa-politica-eleitoral/meme-slap.png]]
+[[./meme-slap.png]]
 
 #+begin_quote
 Resgatar nossas tradições históricas também tem a ver com enfrentar a extrema direita e a burguesia brasileira

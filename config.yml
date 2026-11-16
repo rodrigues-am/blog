@@ -19,8 +19,10 @@ minify:
 services:
   disqus:
     shortname: rodrigues-am
-languageCode: pt-BR
 defaultContentLanguage: pt-br
+languages:
+  pt-br:
+    locale: pt-BR
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: André Rodrigues
